@@ -1,0 +1,32 @@
+:host{
+    display: block;
+    font-family: Courier New, Courier, monospace;
+    max-width: 1300px;
+    margin: auto;
+    padding: 20px;
+}
+
+h2{
+    font-weight: 400;
+    font-size: 24px;
+}
+
+ul{
+    list-style: none;    
+}
+li{
+    list-style: none;
+    display: block;
+    font-size: 20px;
+    cursor: pointer;
+    transition: color 150ms ease-out;
+    line-height: 1.5;
+
+    &:hover{
+        color: #bd9c0d;
+    }
+}
+
+.correct{
+    font-size: 24px;
+}

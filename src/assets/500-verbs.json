@@ -1,0 +1,2002 @@
+[
+    {
+        "korean": "가다",
+        "english": "to go"
+    },
+    {
+        "korean": "가르치다",
+        "english": "to teach"
+    },
+    {
+        "korean": "가리키다",
+        "english": "to point, to indicate"
+    },
+    {
+        "korean": "가져가다",
+        "english": "to take, to carry"
+    },
+    {
+        "korean": "가져오다",
+        "english": "to bring; to cause"
+    },
+    {
+        "korean": "가지다",
+        "english": "to have, to possess"
+    },
+    {
+        "korean": "갈아입다",
+        "english": "to change (one’s clothes)"
+    },
+    {
+        "korean": "갈아타다",
+        "english": "to change/transfer to (car, metro, train etc.)"
+    },
+    {
+        "korean": "감다 (1)",
+        "english": "to close (one’s eyes)"
+    },
+    {
+        "korean": "감다 (2)",
+        "english": "to wind up, to coil"
+    },
+    {
+        "korean": "감사하다",
+        "english": "to appreciate, to thank"
+    },
+    {
+        "korean": "감추다",
+        "english": "to hide, to disguise"
+    },
+    {
+        "korean": "강조하다",
+        "english": "to emphasize"
+    },
+    {
+        "korean": "갖추다",
+        "english": "to prepare, to be equipped (with)"
+    },
+    {
+        "korean": "개발하다",
+        "english": "to develop, to create"
+    },
+    {
+        "korean": "거두다",
+        "english": "to collect; to achieve"
+    },
+    {
+        "korean": "거짓말하다",
+        "english": "to lie, to tell a lie"
+    },
+    {
+        "korean": "걱정하다",
+        "english": "to worry (about)"
+    },
+    {
+        "korean": "건너다",
+        "english": "to cross (over)"
+    },
+    {
+        "korean": "걷다",
+        "english": "to walk"
+    },
+    {
+        "korean": "걸다",
+        "english": "to hang; to call"
+    },
+    {
+        "korean": "걸리다 (1)",
+        "english": "to hang, to be hung; to catch (a cold)"
+    },
+    {
+        "korean": "걸리다 (2)",
+        "english": "to take (time)"
+    },
+    {
+        "korean": "걸어가다",
+        "english": "to go on foot, to walk"
+    },
+    {
+        "korean": "걸어오다",
+        "english": "to come on foot"
+    },
+    {
+        "korean": "겪다",
+        "english": "to experience, to undergo"
+    },
+    {
+        "korean": "견디다",
+        "english": "to endure, to bear, to stand"
+    },
+    {
+        "korean": "결심하다",
+        "english": "to resolve"
+    },
+    {
+        "korean": "결정되다",
+        "english": "to be decided"
+    },
+    {
+        "korean": "결정하다",
+        "english": "to decide"
+    },
+    {
+        "korean": "결혼하다",
+        "english": "to marry"
+    },
+    {
+        "korean": "경험하다",
+        "english": "to experience"
+    },
+    {
+        "korean": "계산하다",
+        "english": "to calculate; to pay"
+    },
+    {
+        "korean": "계속되다",
+        "english": "to continue; to be continued"
+    },
+    {
+        "korean": "계속하다",
+        "english": "to continue, to keep (on)"
+    },
+    {
+        "korean": "계시다",
+        "english": "to be, to stay (honorific of 있다)"
+    },
+    {
+        "korean": "고려하다",
+        "english": "to consider"
+    },
+    {
+        "korean": "고르다",
+        "english": "to choose, to select"
+    },
+    {
+        "korean": "고생하다",
+        "english": "to have a hard time, to suffer"
+    },
+    {
+        "korean": "고치다",
+        "english": "to repair, to fix; to revise/edit"
+    },
+    {
+        "korean": "공부하다",
+        "english": "to study"
+    },
+    {
+        "korean": "관련되다",
+        "english": "to be related (to)"
+    },
+    {
+        "korean": "관찰하다",
+        "english": "to observe, to watch"
+    },
+    {
+        "korean": "관하다",
+        "english": "concerning, regarding"
+    },
+    {
+        "korean": "구경하다",
+        "english": "to see the sights, to look around"
+    },
+    {
+        "korean": "구성되다",
+        "english": "to be composed, to be formed"
+    },
+    {
+        "korean": "구하다 (1)",
+        "english": "to seek; to get"
+    },
+    {
+        "korean": "구하다 (2)",
+        "english": "to rescue, to save"
+    },
+    {
+        "korean": "굽다",
+        "english": "to roast, to grill; to bake"
+    },
+    {
+        "korean": "그러다",
+        "english": "to do that, to do this"
+    },
+    {
+        "korean": "그리다",
+        "english": "to draw, to paint"
+    },
+    {
+        "korean": "그만두다",
+        "english": "to stop, to drop, to quit"
+    },
+    {
+        "korean": "그치다",
+        "english": "to stop, to cease"
+    },
+    {
+        "korean": "근무하다",
+        "english": "to work"
+    },
+    {
+        "korean": "기다리다",
+        "english": "to wait"
+    },
+    {
+        "korean": "기대하다",
+        "english": "to expect, to anticipate"
+    },
+    {
+        "korean": "기록하다",
+        "english": "to record, to write"
+    },
+    {
+        "korean": "기르다",
+        "english": "to raise, to grow; to develop"
+    },
+    {
+        "korean": "기뻐하다",
+        "english": "to rejoice, to be happy"
+    },
+    {
+        "korean": "기억나다",
+        "english": "to remember, to come to mind"
+    },
+    {
+        "korean": "기억하다",
+        "english": "to remember, to recall"
+    },
+    {
+        "korean": "기울이다",
+        "english": "to lean; to pay (attention)"
+    },
+    {
+        "korean": "깎다",
+        "english": "to peel, to cut; to cut down, to discount"
+    },
+    {
+        "korean": "깨다 (1)",
+        "english": "to wake (up); to sober up"
+    },
+    {
+        "korean": "깨다 (2)",
+        "english": "to break, to smash"
+    },
+    {
+        "korean": "깨닫다",
+        "english": "to realize, to become aware"
+    },
+    {
+        "korean": "꺼내다",
+        "english": "to pull, to take out"
+    },
+    {
+        "korean": "꾸미다",
+        "english": "to decorate; to invent, to fabricate"
+    },
+    {
+        "korean": "꿈꾸다",
+        "english": "to dream (of)"
+    },
+    {
+        "korean": "끄다",
+        "english": "to put out; to switch off"
+    },
+    {
+        "korean": "끄덕이다",
+        "english": "to nod, to give a nod"
+    },
+    {
+        "korean": "끊다",
+        "english": "to cut; to stop; to hang up"
+    },
+    {
+        "korean": "끊어지다",
+        "english": "to get cut; to be disconnected"
+    },
+    {
+        "korean": "끌다",
+        "english": "to pull, to draw; to drag, to prolong"
+    },
+    {
+        "korean": "끓다",
+        "english": "to boil"
+    },
+    {
+        "korean": "끝나다",
+        "english": "to end, to be over"
+    },
+    {
+        "korean": "끝내다",
+        "english": "to finish, to put an end to"
+    },
+    {
+        "korean": "나가다",
+        "english": "to go out; to attend; to leave, to quit"
+    },
+    {
+        "korean": "나누다",
+        "english": "to divide, to split; to share"
+    },
+    {
+        "korean": "나다",
+        "english": "to grow, to sprout; to happen, to occur"
+    },
+    {
+        "korean": "나빠지다",
+        "english": "to become worse"
+    },
+    {
+        "korean": "나서다",
+        "english": "to come/step forward"
+    },
+    {
+        "korean": "나오다",
+        "english": "to come out, to turn up; to finish; to quit"
+    },
+    {
+        "korean": "나타나다",
+        "english": "to appear"
+    },
+    {
+        "korean": "나타내다",
+        "english": "to show, to express"
+    },
+    {
+        "korean": "날다",
+        "english": "to fly"
+    },
+    {
+        "korean": "날아가다",
+        "english": "to fly away, to fly off; to be gone"
+    },
+    {
+        "korean": "남기다",
+        "english": "to leave (behind)"
+    },
+    {
+        "korean": "남다",
+        "english": "to remain, to be left"
+    },
+    {
+        "korean": "낳다",
+        "english": "to give birth to; to produce"
+    },
+    {
+        "korean": "내놓다",
+        "english": "to put out, to take out"
+    },
+    {
+        "korean": "내다",
+        "english": "to give, to put; to hand in; to pay"
+    },
+    {
+        "korean": "내려가다",
+        "english": "to go down"
+    },
+    {
+        "korean": "내려오다",
+        "english": "to come down"
+    },
+    {
+        "korean": "내리다",
+        "english": "to fall; to get off; to lower"
+    },
+    {
+        "korean": "내밀다",
+        "english": "to stick out, to stretch out"
+    },
+    {
+        "korean": "넘기다",
+        "english": "to pass, to pass over, to turn (over)"
+    },
+    {
+        "korean": "넘다",
+        "english": "to cross, to pass"
+    },
+    {
+        "korean": "넘어가다",
+        "english": "to cross; to move on"
+    },
+    {
+        "korean": "넘어서다",
+        "english": "to cross, to pass"
+    },
+    {
+        "korean": "넘치다",
+        "english": "to overflow, to brim over"
+    },
+    {
+        "korean": "넣다",
+        "english": "to put (something in)"
+    },
+    {
+        "korean": "노래하다",
+        "english": "to sing a song"
+    },
+    {
+        "korean": "노력하다",
+        "english": "to endeavor, to strive"
+    },
+    {
+        "korean": "놀다",
+        "english": "to play, to hang out with"
+    },
+    {
+        "korean": "놀라다",
+        "english": "to be surprised"
+    },
+    {
+        "korean": "높이다",
+        "english": "to make something high, to increase"
+    },
+    {
+        "korean": "놓다",
+        "english": "to lay, to put; to release, to let go"
+    },
+    {
+        "korean": "놓이다",
+        "english": "to be put, to be laid; to feel relieved"
+    },
+    {
+        "korean": "놓치다",
+        "english": "to miss (bus, opportunity)"
+    },
+    {
+        "korean": "누르다",
+        "english": "to press"
+    },
+    {
+        "korean": "눕다",
+        "english": "to lie"
+    },
+    {
+        "korean": "느끼다",
+        "english": "to feel"
+    },
+    {
+        "korean": "늘다",
+        "english": "to increase; to improve"
+    },
+    {
+        "korean": "늘리다",
+        "english": "to increase, to lengthen"
+    },
+    {
+        "korean": "늘어나다",
+        "english": "to stretch; to grow, to increase"
+    },
+    {
+        "korean": "늙다",
+        "english": "to get old"
+    },
+    {
+        "korean": "늦다",
+        "english": "to be late"
+    },
+    {
+        "korean": "다가가다",
+        "english": "to approach"
+    },
+    {
+        "korean": "다가오다",
+        "english": "to approach, to come up"
+    },
+    {
+        "korean": "다녀오다",
+        "english": "to go and get back"
+    },
+    {
+        "korean": "다니다",
+        "english": "to go (to); to attend"
+    },
+    {
+        "korean": "다치다",
+        "english": "to hurt, to be wounded"
+    },
+    {
+        "korean": "다하다",
+        "english": "to run out; to carry out, to fulfill"
+    },
+    {
+        "korean": "닦다",
+        "english": "to clean, to wash"
+    },
+    {
+        "korean": "닫다",
+        "english": "to close"
+    },
+    {
+        "korean": "닫히다",
+        "english": "to be closed, to close"
+    },
+    {
+        "korean": "달다",
+        "english": "to hoist, to attach, to wear"
+    },
+    {
+        "korean": "달라지다",
+        "english": "to change, to alter"
+    },
+    {
+        "korean": "달려가다",
+        "english": "to run, to dash"
+    },
+    {
+        "korean": "달리다 (1)",
+        "english": "to run"
+    },
+    {
+        "korean": "달리다 (2)",
+        "english": "to hang; to be up to, to depend on"
+    },
+    {
+        "korean": "달아나다",
+        "english": "to escape, to run away"
+    },
+    {
+        "korean": "닮다",
+        "english": "to resemble, to look like"
+    },
+    {
+        "korean": "담기다",
+        "english": "to be put in"
+    },
+    {
+        "korean": "담다",
+        "english": "to put, to hold"
+    },
+    {
+        "korean": "당기다",
+        "english": "to pull, to draw"
+    },
+    {
+        "korean": "당하다",
+        "english": "to go through, to suffer"
+    },
+    {
+        "korean": "닿다",
+        "english": "to touch, to reach"
+    },
+    {
+        "korean": "대다",
+        "english": "to put, to apply, to touch"
+    },
+    {
+        "korean": "대답하다",
+        "english": "to answer, to reply"
+    },
+    {
+        "korean": "대하다",
+        "english": "to treat, to face; concerning"
+    },
+    {
+        "korean": "더하다",
+        "english": "to add"
+    },
+    {
+        "korean": "던지다",
+        "english": "to throw"
+    },
+    {
+        "korean": "덮다",
+        "english": "to cover, to close"
+    },
+    {
+        "korean": "데려가다",
+        "english": "to take (a person)"
+    },
+    {
+        "korean": "데려오다",
+        "english": "to bring, to fetch"
+    },
+    {
+        "korean": "데리다",
+        "english": "to pick somebody up"
+    },
+    {
+        "korean": "도망가다",
+        "english": "to run away"
+    },
+    {
+        "korean": "도와주다",
+        "english": "to help"
+    },
+    {
+        "korean": "도착하다",
+        "english": "to arrive"
+    },
+    {
+        "korean": "돌다",
+        "english": "to turn, to rotate"
+    },
+    {
+        "korean": "돌리다",
+        "english": "to change, to convert; to spin, to turn"
+    },
+    {
+        "korean": "돌보다",
+        "english": "to take care, to look after"
+    },
+    {
+        "korean": "돌아가다",
+        "english": "to return; to pass away"
+    },
+    {
+        "korean": "돌아보다",
+        "english": "to look back"
+    },
+    {
+        "korean": "돌아오다",
+        "english": "to return, to come back"
+    },
+    {
+        "korean": "돕다",
+        "english": "to help"
+    },
+    {
+        "korean": "되다",
+        "english": "to become, to come to"
+    },
+    {
+        "korean": "두다",
+        "english": "to put, to set"
+    },
+    {
+        "korean": "둘러보다",
+        "english": "to look around"
+    },
+    {
+        "korean": "둘러싸다",
+        "english": "to surround"
+    },
+    {
+        "korean": "드러나다",
+        "english": "to come out, to appear, to be exposed"
+    },
+    {
+        "korean": "드러내다",
+        "english": "to show, to reveal"
+    },
+    {
+        "korean": "드리다",
+        "english": "to give (honorific of 주다)"
+    },
+    {
+        "korean": "듣다",
+        "english": "to hear, to listen"
+    },
+    {
+        "korean": "들다 (1)",
+        "english": "to take, to cost; to contain; to catch"
+    },
+    {
+        "korean": "들다 (2)",
+        "english": "to raise; to hold"
+    },
+    {
+        "korean": "들르다",
+        "english": "to drop by"
+    },
+    {
+        "korean": "들리다",
+        "english": "to be heard, to sound"
+    },
+    {
+        "korean": "들어가다",
+        "english": "to enter, to go into"
+    },
+    {
+        "korean": "들어서다",
+        "english": "to enter, to go into; to be built"
+    },
+    {
+        "korean": "들어오다",
+        "english": "to enter, to come into"
+    },
+    {
+        "korean": "들여다보다",
+        "english": "to look in(to)"
+    },
+    {
+        "korean": "따다",
+        "english": "to pick, to get; to unlock"
+    },
+    {
+        "korean": "따라가다",
+        "english": "to follow, to go after; to match"
+    },
+    {
+        "korean": "따라오다",
+        "english": "to follow; to match"
+    },
+    {
+        "korean": "때리다",
+        "english": "to beat, to hit"
+    },
+    {
+        "korean": "떠나다",
+        "english": "to leave"
+    },
+    {
+        "korean": "떠오르다",
+        "english": "to rise up; to occur"
+    },
+    {
+        "korean": "떠올리다",
+        "english": "to recall, to recollect"
+    },
+    {
+        "korean": "떨다",
+        "english": "to shake, to quiver"
+    },
+    {
+        "korean": "떨리다",
+        "english": "to quiver, to tremble"
+    },
+    {
+        "korean": "떨어지다",
+        "english": "to fall, to drop; to fail; to run out"
+    },
+    {
+        "korean": "떼다",
+        "english": "to take off, to detach"
+    },
+    {
+        "korean": "뛰다 (1)",
+        "english": "to run, to dash"
+    },
+    {
+        "korean": "뛰다 (2)",
+        "english": "to jump; to beat"
+    },
+    {
+        "korean": "뜨다 (1)",
+        "english": "to float, to rise"
+    },
+    {
+        "korean": "뜨다",
+        "english": "to open (one’s eyes)"
+    },
+    {
+        "korean": "뜻하다",
+        "english": "to mean, to indicate"
+    },
+    {
+        "korean": "마련하다",
+        "english": "to prepare, to arrange"
+    },
+    {
+        "korean": "마르다",
+        "english": "to dry, to run dry; to become thin"
+    },
+    {
+        "korean": "마시다",
+        "english": "to drink, to have"
+    },
+    {
+        "korean": "마치다",
+        "english": "to end, to finish"
+    },
+    {
+        "korean": "막다",
+        "english": "to block; to stop, to prevent"
+    },
+    {
+        "korean": "막히다",
+        "english": "to be blocked, to be stopped, to be clogged"
+    },
+    {
+        "korean": "만나다",
+        "english": "to meet"
+    },
+    {
+        "korean": "만들다",
+        "english": "to make, to produce"
+    },
+    {
+        "korean": "만족하다",
+        "english": "to be satisfied, to be content"
+    },
+    {
+        "korean": "만지다",
+        "english": "to touch"
+    },
+    {
+        "korean": "말다",
+        "english": "to stop"
+    },
+    {
+        "korean": "말씀하다",
+        "english": "to say, to speak (honorific of 말하다)"
+    },
+    {
+        "korean": "말하다",
+        "english": "to say, to speak"
+    },
+    {
+        "korean": "맞다 (1)",
+        "english": "to be right, to be correct; to fit"
+    },
+    {
+        "korean": "맞다 (2)",
+        "english": "to be hit, to be beaten; to get"
+    },
+    {
+        "korean": "맞다 (3)",
+        "english": "to face a certain time; to greet, to welcome"
+    },
+    {
+        "korean": "맞추다",
+        "english": "to check, compare; to adjust"
+    },
+    {
+        "korean": "맞히다",
+        "english": "to guess right, to hit the mark"
+    },
+    {
+        "korean": "맡기다",
+        "english": "to entrust, to leave"
+    },
+    {
+        "korean": "맡다 (1)",
+        "english": "to take care of, to take on; to keep"
+    },
+    {
+        "korean": "맡다 (2)",
+        "english": "to smell, to sniff"
+    },
+    {
+        "korean": "매다",
+        "english": "to tie, to fasten, to wear"
+    },
+    {
+        "korean": "머무르다",
+        "english": "to stay"
+    },
+    {
+        "korean": "먹다",
+        "english": "to eat, to have, to take"
+    },
+    {
+        "korean": "먹이다",
+        "english": "to feed"
+    },
+    {
+        "korean": "멈추다",
+        "english": "to stop, to halt"
+    },
+    {
+        "korean": "모르다",
+        "english": "to not know"
+    },
+    {
+        "korean": "모시다",
+        "english": "to take care of; to take, to bring (honorific form of 데리다)"
+    },
+    {
+        "korean": "모으다",
+        "english": "to gather, to collect"
+    },
+    {
+        "korean": "모이다",
+        "english": "to gather, to come together"
+    },
+    {
+        "korean": "모자라다",
+        "english": "to be short, to be insufficient"
+    },
+    {
+        "korean": "몰다",
+        "english": "to steer, to drive"
+    },
+    {
+        "korean": "못하다",
+        "english": "to be poor; to be incapable, cannot"
+    },
+    {
+        "korean": "무너지다",
+        "english": "to collapse, to give way"
+    },
+    {
+        "korean": "무시하다",
+        "english": "to ignore, to neglect"
+    },
+    {
+        "korean": "묶다",
+        "english": "to tie, to bind"
+    },
+    {
+        "korean": "묻다",
+        "english": "to ask"
+    },
+    {
+        "korean": "물다",
+        "english": "to bite; to hold something in one’s mouth"
+    },
+    {
+        "korean": "물어보다",
+        "english": "to ask"
+    },
+    {
+        "korean": "미루다",
+        "english": "to delay, to postpone; to shift blame"
+    },
+    {
+        "korean": "미워하다",
+        "english": "to hate, to dislike"
+    },
+    {
+        "korean": "미치다",
+        "english": "to go crazy"
+    },
+    {
+        "korean": "믿다",
+        "english": "to believe, to trust"
+    },
+    {
+        "korean": "밀다",
+        "english": "to push"
+    },
+    {
+        "korean": "바꾸다",
+        "english": "to change, to switch"
+    },
+    {
+        "korean": "바뀌다",
+        "english": "to change, to be changed"
+    },
+    {
+        "korean": "바라다",
+        "english": "to wish, to hope, to want"
+    },
+    {
+        "korean": "바라보다",
+        "english": "to look (at)"
+    },
+    {
+        "korean": "바르다",
+        "english": "to apply, to put on"
+    },
+    {
+        "korean": "반대하다",
+        "english": "to oppose"
+    },
+    {
+        "korean": "받다",
+        "english": "to get, to take, to receive"
+    },
+    {
+        "korean": "받아들이다",
+        "english": "to accept"
+    },
+    {
+        "korean": "발견되다",
+        "english": "to be discovered, to be found"
+    },
+    {
+        "korean": "발견하다",
+        "english": "to discover, to find"
+    },
+    {
+        "korean": "발달하다",
+        "english": "to develop, to advance"
+    },
+    {
+        "korean": "발생하다",
+        "english": "to happen, to occur"
+    },
+    {
+        "korean": "발전하다",
+        "english": "to develop, to grow"
+    },
+    {
+        "korean": "발표하다",
+        "english": "to announce, to make public"
+    },
+    {
+        "korean": "밝히다",
+        "english": "to reveal, to disclose; to light"
+    },
+    {
+        "korean": "밟다",
+        "english": "to step on"
+    },
+    {
+        "korean": "방문하다",
+        "english": "to visit"
+    },
+    {
+        "korean": "배우다",
+        "english": "to learn"
+    },
+    {
+        "korean": "버리다",
+        "english": "to throw away, to abandon"
+    },
+    {
+        "korean": "벌다",
+        "english": "to make (money), to earn (money)"
+    },
+    {
+        "korean": "벌리다",
+        "english": "to be profitable, to spread"
+    },
+    {
+        "korean": "벌어지다",
+        "english": "to get wider; to happen"
+    },
+    {
+        "korean": "벌이다",
+        "english": "to start, to begin"
+    },
+    {
+        "korean": "벗다",
+        "english": "to take off, to undress"
+    },
+    {
+        "korean": "벗어나다",
+        "english": "to get out"
+    },
+    {
+        "korean": "변하다",
+        "english": "to change, to vary"
+    },
+    {
+        "korean": "변화하다",
+        "english": "to change, to turn"
+    },
+    {
+        "korean": "보내다",
+        "english": "to send; to pass, to spend"
+    },
+    {
+        "korean": "보다",
+        "english": "to see, to watch, to look at"
+    },
+    {
+        "korean": "보이다 (1)",
+        "english": "to be seen, to look"
+    },
+    {
+        "korean": "보이다 (2)",
+        "english": "to show, to let somebody see"
+    },
+    {
+        "korean": "볶다",
+        "english": "to stir-fry"
+    },
+    {
+        "korean": "뵙다",
+        "english": "to see, to meet (humble form of 만나다)"
+    },
+    {
+        "korean": "부르다",
+        "english": "to call; to sing"
+    },
+    {
+        "korean": "부탁하다",
+        "english": "to ask for a favor, to request"
+    },
+    {
+        "korean": "불다",
+        "english": "to blow"
+    },
+    {
+        "korean": "붓다",
+        "english": "to pour"
+    },
+    {
+        "korean": "붙다",
+        "english": "to stick (to); to pass (a test)"
+    },
+    {
+        "korean": "붙이다",
+        "english": "to stick"
+    },
+    {
+        "korean": "비교하다",
+        "english": "to compare"
+    },
+    {
+        "korean": "비다",
+        "english": "to be empty, to be vacant"
+    },
+    {
+        "korean": "비추다",
+        "english": "to shine, to reflect"
+    },
+    {
+        "korean": "비치다",
+        "english": "to shine, to be reflected"
+    },
+    {
+        "korean": "빌리다",
+        "english": "to borrow, to take out a loan"
+    },
+    {
+        "korean": "빛나다",
+        "english": "to shine, to sparkle"
+    },
+    {
+        "korean": "빠져나가다",
+        "english": "to get out, to escape"
+    },
+    {
+        "korean": "빠지다 (1)",
+        "english": "to sink; to be absorbed"
+    },
+    {
+        "korean": "빠지다 (2)",
+        "english": "to fall out; to be dropped; to be absent"
+    },
+    {
+        "korean": "빼다",
+        "english": "to remove, to subtract, to take out"
+    },
+    {
+        "korean": "뽑다",
+        "english": "to pull; to select, to choose"
+    },
+    {
+        "korean": "뿌리다",
+        "english": "to spread, to sprinkle"
+    },
+    {
+        "korean": "사다",
+        "english": "to buy"
+    },
+    {
+        "korean": "사라지다",
+        "english": "to disappear"
+    },
+    {
+        "korean": "사랑하다",
+        "english": "to love"
+    },
+    {
+        "korean": "사용되다",
+        "english": "to be used"
+    },
+    {
+        "korean": "사용하다",
+        "english": "to use"
+    },
+    {
+        "korean": "살다",
+        "english": "to live"
+    },
+    {
+        "korean": "실리다",
+        "english": "to save (someone)"
+    },
+    {
+        "korean": "살펴보다",
+        "english": "to examine, to search, to check"
+    },
+    {
+        "korean": "상상하다",
+        "english": "to imagine"
+    },
+    {
+        "korean": "생각나다",
+        "english": "to remember, to occur"
+    },
+    {
+        "korean": "생각되다",
+        "english": "to be considered, to be thought"
+    },
+    {
+        "korean": "생각하다",
+        "english": "to think"
+    },
+    {
+        "korean": "생겨나다",
+        "english": "to originate, to form"
+    },
+    {
+        "korean": "생기다",
+        "english": "to be formed, to look (like)"
+    },
+    {
+        "korean": "서다",
+        "english": "to stand; to stop"
+    },
+    {
+        "korean": "서두르다",
+        "english": "to hurry, to rush"
+    },
+    {
+        "korean": "섞다",
+        "english": "to mix, to blend; to shuffle"
+    },
+    {
+        "korean": "선물하다",
+        "english": "to give a present"
+    },
+    {
+        "korean": "선택하다",
+        "english": "to choose, to select"
+    },
+    {
+        "korean": "설명하다",
+        "english": "to explain"
+    },
+    {
+        "korean": "성공하다",
+        "english": "to succeed"
+    },
+    {
+        "korean": "세우다",
+        "english": "to make something stand; to set up; to stop"
+    },
+    {
+        "korean": "소개하다",
+        "english": "to introduce"
+    },
+    {
+        "korean": "소리치다",
+        "english": "to shout, to yell"
+    },
+    {
+        "korean": "속하다",
+        "english": "to belong to"
+    },
+    {
+        "korean": "숨다",
+        "english": "to hide"
+    },
+    {
+        "korean": "쉬다",
+        "english": "to rest, to relax, to take a day off"
+    },
+    {
+        "korean": "시달리다",
+        "english": "to suffer from, to worry about"
+    },
+    {
+        "korean": "시작되다",
+        "english": "to start, to begin (by itself)"
+    },
+    {
+        "korean": "시작하다",
+        "english": "to start, to begin (Something)"
+    },
+    {
+        "korean": "시키다",
+        "english": "to make (somebody do); to order"
+    },
+    {
+        "korean": "식사하다",
+        "english": "to have a meal"
+    },
+    {
+        "korean": "신다",
+        "english": "to put on, to wear (on feet)"
+    },
+    {
+        "korean": "싣다",
+        "english": "to load"
+    },
+    {
+        "korean": "실례하다",
+        "english": "to annoy, to trouble"
+    },
+    {
+        "korean": "실수하다",
+        "english": "to make a mistake"
+    },
+    {
+        "korean": "실패하다",
+        "english": "to fail"
+    },
+    {
+        "korean": "싫어하다",
+        "english": "to hate, to dislike"
+    },
+    {
+        "korean": "심다",
+        "english": "to plant"
+    },
+    {
+        "korean": "싸다",
+        "english": "to wrap; to pack"
+    },
+    {
+        "korean": "싸우다",
+        "english": "to fight, to argue"
+    },
+    {
+        "korean": "쌓다",
+        "english": "to pile, to stack, to accumulate"
+    },
+    {
+        "korean": "쌓이다",
+        "english": "to be stacked, to pile up"
+    },
+    {
+        "korean": "썰다",
+        "english": "to cut, to chop, to slice"
+    },
+    {
+        "korean": "쏟아지다",
+        "english": "to pour"
+    },
+    {
+        "korean": "쓰다 (1)",
+        "english": "to write"
+    },
+    {
+        "korean": "쓰다 (2)",
+        "english": "to wear, to put on (on or overhead)"
+    },
+    {
+        "korean": "쓰다 (3)",
+        "english": "to use, to spend"
+    },
+    {
+        "korean": "쓰이다",
+        "english": "to be used"
+    },
+    {
+        "korean": "씹다",
+        "english": "to chew, to bite"
+    },
+    {
+        "korean": "씻다",
+        "english": "to wash"
+    },
+    {
+        "korean": "아끼다",
+        "english": "to save; to cherish"
+    },
+    {
+        "korean": "안다",
+        "english": "to hug, to hold"
+    },
+    {
+        "korean": "안되다",
+        "english": "to be unsuccessful"
+    },
+    {
+        "korean": "앉다",
+        "english": "to sit"
+    },
+    {
+        "korean": "않다",
+        "english": "to be not"
+    },
+    {
+        "korean": "알다",
+        "english": "to know"
+    },
+    {
+        "korean": "알리다",
+        "english": "to let somebody know, to inform"
+    },
+    {
+        "korean": "알아보다",
+        "english": "to check, to investigate; to recognize"
+    },
+    {
+        "korean": "앓다",
+        "english": "to suffer (from), to be sick"
+    },
+    {
+        "korean": "애쓰다",
+        "english": "to try, to endeavour"
+    },
+    {
+        "korean": "약속하다",
+        "english": "to promise"
+    },
+    {
+        "korean": "어울리다",
+        "english": "to get along; to match, to suit"
+    },
+    {
+        "korean": "얻다",
+        "english": "to borrow; to gain, to get"
+    },
+    {
+        "korean": "없애다",
+        "english": "to remove, to get rid of"
+    },
+    {
+        "korean": "여행하다",
+        "english": "to travel"
+    },
+    {
+        "korean": "연구하다",
+        "english": "to study, to research"
+    },
+    {
+        "korean": "연습하다",
+        "english": "to practice"
+    },
+    {
+        "korean": "열다",
+        "english": "to open"
+    },
+    {
+        "korean": "열리다",
+        "english": "to open, to be opened"
+    },
+    {
+        "korean": "오다",
+        "english": "to come"
+    },
+    {
+        "korean": "오르다",
+        "english": "to rise, to go up"
+    },
+    {
+        "korean": "올라가다",
+        "english": "to go up, to rise"
+    },
+    {
+        "korean": "올라오다",
+        "english": "to come up"
+    },
+    {
+        "korean": "올리다",
+        "english": "to raise, to lift, to post"
+    },
+    {
+        "korean": "옮기다",
+        "english": "to move, to shift"
+    },
+    {
+        "korean": "외치다",
+        "english": "to shout, to yell"
+    },
+    {
+        "korean": "요구하다",
+        "english": "to request, to demand"
+    },
+    {
+        "korean": "요리하다",
+        "english": "to cook"
+    },
+    {
+        "korean": "운동하다",
+        "english": "to do exercise"
+    },
+    {
+        "korean": "운전하다",
+        "english": "to drive"
+    },
+    {
+        "korean": "울다",
+        "english": "to cry, to weep"
+    },
+    {
+        "korean": "울리다",
+        "english": "to make somebody cry; to sound, to ring"
+    },
+    {
+        "korean": "움직이다",
+        "english": "to move"
+    },
+    {
+        "korean": "웃기다",
+        "english": "to make somebody laugh; to be funny"
+    },
+    {
+        "korean": "웃다",
+        "english": "to laugh, to smile"
+    },
+    {
+        "korean": "원하다",
+        "english": "to want, to wish"
+    },
+    {
+        "korean": "위하다",
+        "english": "to care for; for"
+    },
+    {
+        "korean": "의미하다",
+        "english": "to mean"
+    },
+    {
+        "korean": "의하다",
+        "english": "to be due to, to be based on"
+    },
+    {
+        "korean": "이기다",
+        "english": "to win, to beat; to overcome"
+    },
+    {
+        "korean": "이루다",
+        "english": "to make, to form; to achieve"
+    },
+    {
+        "korean": "이루어지다",
+        "english": "to be made up of; to be achieved"
+    },
+    {
+        "korean": "이사하다",
+        "english": "to move (house), to shift"
+    },
+    {
+        "korean": "이야기하다",
+        "english": "to talk"
+    },
+    {
+        "korean": "이용하다",
+        "english": "to use"
+    },
+    {
+        "korean": "이해하다",
+        "english": "to understand"
+    },
+    {
+        "korean": "이혼하다",
+        "english": "to divorce"
+    },
+    {
+        "korean": "인사하다",
+        "english": "to greet"
+    },
+    {
+        "korean": "일어나다",
+        "english": "to get up, to stand up; to happen"
+    },
+    {
+        "korean": "일어서다",
+        "english": "to stand up"
+    },
+    {
+        "korean": "일으키다",
+        "english": "to raise; to cause"
+    },
+    {
+        "korean": "일하다",
+        "english": "to work"
+    },
+    {
+        "korean": "읽다",
+        "english": "to read"
+    },
+    {
+        "korean": "잃다",
+        "english": "to lose, to be deprived of"
+    },
+    {
+        "korean": "잃어버리다",
+        "english": "to lose something"
+    },
+    {
+        "korean": "입다",
+        "english": "to put on, to wear; to suffer"
+    },
+    {
+        "korean": "잇다",
+        "english": "to connect, to continue"
+    },
+    {
+        "korean": "있다",
+        "english": "to be, to exist, to have"
+    },
+    {
+        "korean": "잊다",
+        "english": "to forget"
+    },
+    {
+        "korean": "잊어버리다",
+        "english": "to forget"
+    },
+    {
+        "korean": "자다",
+        "english": "to sleep"
+    },
+    {
+        "korean": "자라다",
+        "english": "to grow (up)"
+    },
+    {
+        "korean": "자랑하다",
+        "english": "to boast, to show off"
+    },
+    {
+        "korean": "자르다",
+        "english": "to cut, to sever"
+    },
+    {
+        "korean": "잘되다",
+        "english": "to go well"
+    },
+    {
+        "korean": "잘못되다",
+        "english": "to go wrong"
+    },
+    {
+        "korean": "잘못하다",
+        "english": "to do wrong"
+    },
+    {
+        "korean": "잘하다",
+        "english": "to do something well"
+    },
+    {
+        "korean": "잠들다",
+        "english": "to go to sleep, to fall asleep"
+    },
+    {
+        "korean": "잠자다",
+        "english": "to sleep"
+    },
+    {
+        "korean": "잡다",
+        "english": "to catch, to hold"
+    },
+    {
+        "korean": "잡히다",
+        "english": "to be caught"
+    },
+    {
+        "korean": "적다",
+        "english": "to write (down)"
+    },
+    {
+        "korean": "전하다",
+        "english": "to tell, to convey, to deliver"
+    },
+    {
+        "korean": "전화하다",
+        "english": "to make a phone call"
+    },
+    {
+        "korean": "정리하다",
+        "english": "to arrange, to organize"
+    },
+    {
+        "korean": "정하다",
+        "english": "to decide, to determine"
+    },
+    {
+        "korean": "젖다",
+        "english": "to get wet"
+    },
+    {
+        "korean": "제공하다",
+        "english": "to offer, to provide"
+    },
+    {
+        "korean": "조사하다",
+        "english": "to investigate, to look into"
+    },
+    {
+        "korean": "조심하다",
+        "english": "to be careful, to watch out"
+    },
+    {
+        "korean": "졸다",
+        "english": "to doze off"
+    },
+    {
+        "korean": "졸업하다",
+        "english": "to graduate"
+    },
+    {
+        "korean": "좋아하다",
+        "english": "to like, to enjoy"
+    },
+    {
+        "korean": "주다",
+        "english": "to give"
+    },
+    {
+        "korean": "주장하다",
+        "english": "to insist"
+    },
+    {
+        "korean": "죽다",
+        "english": "to die"
+    },
+    {
+        "korean": "죽이다",
+        "english": "to kill"
+    },
+    {
+        "korean": "준비하다",
+        "english": "to prepare"
+    },
+    {
+        "korean": "줄어들다",
+        "english": "to decrease, to shrink"
+    },
+    {
+        "korean": "줄이다",
+        "english": "to reduce, to decrease (something)"
+    },
+    {
+        "korean": "쥐다",
+        "english": "to hold, to clasp"
+    },
+    {
+        "korean": "즐기다",
+        "english": "to enjoy, to have fun"
+    },
+    {
+        "korean": "증가하다",
+        "english": "to increase, to grow"
+    },
+    {
+        "korean": "지나가다",
+        "english": "to pass (by)"
+    },
+    {
+        "korean": "지나다",
+        "english": "to pass, to go by"
+    },
+    {
+        "korean": "지내다",
+        "english": "to spend one’s time; to get along"
+    },
+    {
+        "korean": "지다",
+        "english": "to lose, to be defeated"
+    },
+    {
+        "korean": "지르다",
+        "english": "to shout, to yell"
+    },
+    {
+        "korean": "지우다",
+        "english": "to delete, to remove"
+    },
+    {
+        "korean": "지치다",
+        "english": "to be exhausted, to be tired"
+    },
+    {
+        "korean": "지켜보다",
+        "english": "to watch, to observe"
+    },
+    {
+        "korean": "지키다",
+        "english": "to keep, to obey; to guard"
+    },
+    {
+        "korean": "진행되다",
+        "english": "to progress, to proceed"
+    },
+    {
+        "korean": "질문하다",
+        "english": "to ask, to question"
+    },
+    {
+        "korean": "집다",
+        "english": "to pick up"
+    },
+    {
+        "korean": "짓다",
+        "english": "to make, to build, to name"
+    },
+    {
+        "korean": "찍다",
+        "english": "to spear; to stamp; to take (a picture)"
+    },
+    {
+        "korean": "차다",
+        "english": "to kick; to dump"
+    },
+    {
+        "korean": "차리다",
+        "english": "to set, to prepare; to regain, to recover"
+    },
+    {
+        "korean": "참다",
+        "english": "to suppress, to bear, to endure"
+    },
+    {
+        "korean": "참석하다",
+        "english": "to attend, to participate"
+    },
+    {
+        "korean": "찾다",
+        "english": "to find, to look for"
+    },
+    {
+        "korean": " 찾아가다",
+        "english": "to go, to visit; to pick up"
+    },
+    {
+        "korean": "찾아보다",
+        "english": "to look for, to find"
+    },
+    {
+        "korean": "찾아오다",
+        "english": "to come, to visit; to pick up"
+    },
+    {
+        "korean": "채우다",
+        "english": "to fill"
+    },
+    {
+        "korean": "챙기다",
+        "english": "to take, to pack; to take care of"
+    },
+    {
+        "korean": "청소하다",
+        "english": "to clean"
+    },
+    {
+        "korean": "쳐다보다",
+        "english": "to gaze, to stare"
+    },
+    {
+        "korean": "초대하다",
+        "english": "to invite"
+    },
+    {
+        "korean": "추다",
+        "english": "to praise (up), to flatter"
+    },
+    {
+        "korean": "축하하다",
+        "english": "to celebrate, to congratulate"
+    },
+    {
+        "korean": "출발하다",
+        "english": "to depart, to leave"
+    },
+    {
+        "korean": "춤추다",
+        "english": "to dance"
+    },
+    {
+        "korean": "취소하다",
+        "english": "to cancel, to revoke"
+    },
+    {
+        "korean": "취하다",
+        "english": "to be drunk"
+    },
+    {
+        "korean": "치다",
+        "english": "to hit, to strike; to play; to take"
+    },
+    {
+        "korean": "커지다",
+        "english": "to grow bigger"
+    },
+    {
+        "korean": "켜다",
+        "english": "to turn on, to switch on"
+    },
+    {
+        "korean": "크다",
+        "english": "to grow (up)"
+    },
+    {
+        "korean": "키우다",
+        "english": "to raise, to bring up, to grow"
+    },
+    {
+        "korean": "타다 (1)",
+        "english": "to take, to ride, to get on"
+    },
+    {
+        "korean": "타다 (2)",
+        "english": "to burn, to be burned"
+    },
+    {
+        "korean": "태어나다",
+        "english": "to be born"
+    },
+    {
+        "korean": "태우다 (1)",
+        "english": "to give a ride, to ride"
+    },
+    {
+        "korean": "태우다 (2)",
+        "english": "to burn"
+    },
+    {
+        "korean": "터지다",
+        "english": "to explode; to break out"
+    },
+    {
+        "korean": "통하다",
+        "english": "to go through; to communicate"
+    },
+    {
+        "korean": "틀다",
+        "english": "to turn (e.g. a tap); to twist"
+    },
+    {
+        "korean": "틀리다",
+        "english": "to be wrong, to be incorrect"
+    },
+    {
+        "korean": "팔다",
+        "english": "to sell"
+    },
+    {
+        "korean": "펴다",
+        "english": "to unfold, to spread, to open"
+    },
+    {
+        "korean": "펼쳐지다",
+        "english": "to spread, to be held"
+    },
+    {
+        "korean": "펼치다",
+        "english": "to open, to unfold"
+    },
+    {
+        "korean": "포기하다",
+        "english": "to give up, to abandon"
+    },
+    {
+        "korean": "포함되다",
+        "english": "to be included"
+    },
+    {
+        "korean": "포함하다",
+        "english": "to include, to contain"
+    },
+    {
+        "korean": "표현하다",
+        "english": "to express, to show"
+    },
+    {
+        "korean": "풀다",
+        "english": "to untie, to unfasten; to solve"
+    },
+    {
+        "korean": "풀리다",
+        "english": "to come untied; to be solved"
+    },
+    {
+        "korean": "피다",
+        "english": "to bloom, to blossom"
+    },
+    {
+        "korean": "피우다",
+        "english": "to light, to burn; to smoke"
+    },
+    {
+        "korean": "피하다",
+        "english": "to avoid, to escape"
+    },
+    {
+        "korean": "하다",
+        "english": "to do"
+    },
+    {
+        "korean": "해결하다",
+        "english": "to settle, to solve"
+    },
+    {
+        "korean": "향하다",
+        "english": "to head, to face (to a direction)"
+    },
+    {
+        "korean": "화나다",
+        "english": "to be angry"
+    },
+    {
+        "korean": "확인하다",
+        "english": "to confirm, to check"
+    },
+    {
+        "korean": "활용하다",
+        "english": "to use"
+    },
+    {
+        "korean": "후회하다",
+        "english": "to regret"
+    },
+    {
+        "korean": "흐르다",
+        "english": "to flow, to run; to elapse, to pass"
+    },
+    {
+        "korean": "흔들다",
+        "english": "to shake, to swing"
+    },
+    {
+        "korean": "흘리다",
+        "english": "to shed, to drop"
+    }
+]

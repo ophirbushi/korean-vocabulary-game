@@ -1,0 +1,2010 @@
+[
+    {
+        "korean": "가깝다",
+        "english": "Close, Near"
+    },
+    {
+        "korean": "가난하다",
+        "english": "Poor, Needy"
+    },
+    {
+        "korean": "가늘다",
+        "english": "Thin, Slender, Fine"
+    },
+    {
+        "korean": "가능하다",
+        "english": "Possible, Feasible"
+    },
+    {
+        "korean": "가득하다",
+        "english": "Full, Crammed"
+    },
+    {
+        "korean": "가볍다",
+        "english": "Light, Slight"
+    },
+    {
+        "korean": "가혹하다",
+        "english": "Severe, Harsh"
+    },
+    {
+        "korean": "간단하다",
+        "english": "Simple, Easy, Brief"
+    },
+    {
+        "korean": "간절하다",
+        "english": "Ardent, Earnest"
+    },
+    {
+        "korean": "간편하다",
+        "english": "Simple, Convenient"
+    },
+    {
+        "korean": "감사하다",
+        "english": "Thankful"
+    },
+    {
+        "korean": "갑작스럽다",
+        "english": "Sudden, Abrupt"
+    },
+    {
+        "korean": "값싸다",
+        "english": "Cheap, Inexpensive"
+    },
+    {
+        "korean": "강력하다",
+        "english": "Strong, Powerful"
+    },
+    {
+        "korean": "강렬하다",
+        "english": "Strong, Intense"
+    },
+    {
+        "korean": "강하다",
+        "english": "Strong, Powerful"
+    },
+    {
+        "korean": "같다",
+        "english": "Same, Identical: Similar"
+    },
+    {
+        "korean": "거대하다",
+        "english": "Huge, Great"
+    },
+    {
+        "korean": "거룩하다",
+        "english": "Holy, Divine"
+    },
+    {
+        "korean": "거세다",
+        "english": "Fierce, Strong"
+    },
+    {
+        "korean": "거창하다",
+        "english": "Grand, Grandiose"
+    },
+    {
+        "korean": "거칠다",
+        "english": "Rough, Coarse"
+    },
+    {
+        "korean": "걱정스럽다",
+        "english": "Anxious, Troubled"
+    },
+    {
+        "korean": "건강하다",
+        "english": "Healthy, Well"
+    },
+    {
+        "korean": "건전하다",
+        "english": "Sound, Healthy"
+    },
+    {
+        "korean": "건조하다",
+        "english": "Dry, Arid"
+    },
+    {
+        "korean": "걸맞다",
+        "english": "Suitable, Fit"
+    },
+    {
+        "korean": "검다",
+        "english": "Black"
+    },
+    {
+        "korean": "게으르다",
+        "english": "Lazy, Idle"
+    },
+    {
+        "korean": "격렬하다",
+        "english": "Intense, Fierce"
+    },
+    {
+        "korean": "경쾌하다",
+        "english": "Light, Rhythmical"
+    },
+    {
+        "korean": "고급스럽다",
+        "english": "Luxurious, Classy"
+    },
+    {
+        "korean": "고르다",
+        "english": "Even, Regular"
+    },
+    {
+        "korean": "고맙다",
+        "english": "Thankful"
+    },
+    {
+        "korean": "고소하다",
+        "english": "To Have A Sesame Taste"
+    },
+    {
+        "korean": "고요하다",
+        "english": "Quiet, Tranquil, Calm"
+    },
+    {
+        "korean": "고유하다",
+        "english": "Indigenous, Inherent"
+    },
+    {
+        "korean": "고통스럽다",
+        "english": "Painful, Agonizing"
+    },
+    {
+        "korean": "고프다",
+        "english": "Hungry"
+    },
+    {
+        "korean": "곤란하다",
+        "english": "Difficult, Tough, Embarrasing"
+    },
+    {
+        "korean": "곧다",
+        "english": "Straight, Upright"
+    },
+    {
+        "korean": "곱다",
+        "english": "Soft, Nice, Beautiful"
+    },
+    {
+        "korean": "공정하다",
+        "english": "Just, Fair"
+    },
+    {
+        "korean": "공평하다",
+        "english": "Fair, Impartial"
+    },
+    {
+        "korean": "공허하다",
+        "english": "Empty, Hollow"
+    },
+    {
+        "korean": "과감하다",
+        "english": "Drastic, Bold"
+    },
+    {
+        "korean": "과도하다",
+        "english": "Excessive"
+    },
+    {
+        "korean": "광범위하다",
+        "english": "Extensive, Widespread"
+    },
+    {
+        "korean": "괜찮다",
+        "english": "Fine, Ok"
+    },
+    {
+        "korean": "괴롭다",
+        "english": "Painful, Distressed"
+    },
+    {
+        "korean": "굉장하다",
+        "english": "Wonderful, Great"
+    },
+    {
+        "korean": "굳다",
+        "english": "Hard, Stiff, Strong"
+    },
+    {
+        "korean": "굵다",
+        "english": "Thick, Big"
+    },
+    {
+        "korean": "궁금하다",
+        "english": "Curious"
+    },
+    {
+        "korean": "귀엽다",
+        "english": "Cute, Lovely"
+    },
+    {
+        "korean": "귀중하다",
+        "english": "Precious, Valuable"
+    },
+    {
+        "korean": "귀찮다",
+        "english": "Troublesome, Tiresome"
+    },
+    {
+        "korean": "귀하다",
+        "english": "Precious, Valuable, Rare"
+    },
+    {
+        "korean": "그럴듯하다",
+        "english": "Plausible"
+    },
+    {
+        "korean": "그렇다",
+        "english": "So, True"
+    },
+    {
+        "korean": "그르다",
+        "english": "Wrong, Incorrect"
+    },
+    {
+        "korean": "그립다",
+        "english": "Miss, Long For"
+    },
+    {
+        "korean": "그만하다",
+        "english": "As Much As That"
+    },
+    {
+        "korean": "그윽하다",
+        "english": "Deep And Delicate"
+    },
+    {
+        "korean": "극심하다",
+        "english": "Extreme, Severe"
+    },
+    {
+        "korean": "급격하다",
+        "english": "Sharp, Rapid, Drastic"
+    },
+    {
+        "korean": "급급하다",
+        "english": "Busy"
+    },
+    {
+        "korean": "급하다",
+        "english": "Impetuous, Urgent"
+    },
+    {
+        "korean": "기쁘다",
+        "english": "Glad, Happy"
+    },
+    {
+        "korean": "길다",
+        "english": "Long, Lengthy"
+    },
+    {
+        "korean": "김막히다",
+        "english": "Dumbfounded, Wonderful"
+    },
+    {
+        "korean": "깊다",
+        "english": "Deep"
+    },
+    {
+        "korean": "까다롭다",
+        "english": "Difficult, Fussy"
+    },
+    {
+        "korean": "까맣다",
+        "english": "Black"
+    },
+    {
+        "korean": "깔끔하다",
+        "english": "Neat, Tidy (ㄲ)"
+    },
+    {
+        "korean": "깨끗하다",
+        "english": "Clean"
+    },
+    {
+        "korean": "꼼꼼하다",
+        "english": "Meticulous, Precise"
+    },
+    {
+        "korean": "꾸준하다",
+        "english": "Steady, Constant"
+    },
+    {
+        "korean": "끈질기다",
+        "english": "Persistent"
+    },
+    {
+        "korean": "끊임없다",
+        "english": "Constant, Incessant"
+    },
+    {
+        "korean": "끔찍하다",
+        "english": "Terrible, Awful"
+    },
+    {
+        "korean": "끝없다",
+        "english": "Endless"
+    },
+    {
+        "korean": "나쁘다",
+        "english": "Bad, Poor"
+    },
+    {
+        "korean": "난감하다",
+        "english": "Embarrassing"
+    },
+    {
+        "korean": "날카롭다",
+        "english": "Sharp"
+    },
+    {
+        "korean": "낡다",
+        "english": "Old, Shabby, Old Fashioned"
+    },
+    {
+        "korean": "남다르다",
+        "english": "Unusual, Extraordinary"
+    },
+    {
+        "korean": "낫다",
+        "english": "Better, Superior"
+    },
+    {
+        "korean": "낮다",
+        "english": "Low"
+    },
+    {
+        "korean": "낯설다",
+        "english": "Unfamiliar"
+    },
+    {
+        "korean": "낯익다",
+        "english": "Familiar"
+    },
+    {
+        "korean": "넉넉하다",
+        "english": "Enough, Sufficient"
+    },
+    {
+        "korean": "넓다",
+        "english": "Large, Broad"
+    },
+    {
+        "korean": "노랗다",
+        "english": "Yellow"
+    },
+    {
+        "korean": "놀랍다",
+        "english": "Surprising, Amazing"
+    },
+    {
+        "korean": "높다",
+        "english": "High"
+    },
+    {
+        "korean": "누렇다",
+        "english": "(Golden) Yellow"
+    },
+    {
+        "korean": "눈부시다",
+        "english": "Dazzling"
+    },
+    {
+        "korean": "느리다",
+        "english": "Slow"
+    },
+    {
+        "korean": "늦다",
+        "english": "Late"
+    },
+    {
+        "korean": "다르다",
+        "english": "Different"
+    },
+    {
+        "korean": "다름없다",
+        "english": "As Good As, Same"
+    },
+    {
+        "korean": "다양하다",
+        "english": "Various"
+    },
+    {
+        "korean": "다정하다",
+        "english": "Kind, Friendly"
+    },
+    {
+        "korean": "단단하다",
+        "english": "Hard, Solid"
+    },
+    {
+        "korean": "단순하다",
+        "english": "Simple, Naive"
+    },
+    {
+        "korean": "단정하다",
+        "english": "Neat, Tidy"
+    },
+    {
+        "korean": "단조롭다",
+        "english": "Monotonous, Dull"
+    },
+    {
+        "korean": "단호하다",
+        "english": "Firm, Determined"
+    },
+    {
+        "korean": "달다",
+        "english": "Sweet, Sugary"
+    },
+    {
+        "korean": "답답하다",
+        "english": "Stuffy, Stifling"
+    },
+    {
+        "korean": "당당하다",
+        "english": "Confident, Honorable"
+    },
+    {
+        "korean": "당연하다",
+        "english": "Natural, Reasonable"
+    },
+    {
+        "korean": "대단하다",
+        "english": "Great, Huge"
+    },
+    {
+        "korean": "더럽다",
+        "english": "Dirty, Filthy"
+    },
+    {
+        "korean": "덥다",
+        "english": "Hot (Weather)"
+    },
+    {
+        "korean": "독특하다",
+        "english": "Peculiar, Distinctive"
+    },
+    {
+        "korean": "독하다",
+        "english": "Strong, Pungent, Dogged"
+    },
+    {
+        "korean": "동등하다",
+        "english": "Equal, Equivalent"
+    },
+    {
+        "korean": "동일하다",
+        "english": "Same As, Identical"
+    },
+    {
+        "korean": "두껍다",
+        "english": "Thick"
+    },
+    {
+        "korean": "두드러지다",
+        "english": "Remarkable, Noticeable"
+    },
+    {
+        "korean": "두렵다",
+        "english": "Afraid, Scared"
+    },
+    {
+        "korean": "둥그렇다",
+        "english": "Round"
+    },
+    {
+        "korean": "둥글다",
+        "english": "Round"
+    },
+    {
+        "korean": "뒤늦다",
+        "english": "Belated"
+    },
+    {
+        "korean": "드물다",
+        "english": "Rare, Uncommon"
+    },
+    {
+        "korean": "든든하다",
+        "english": "Reassured, Reliable"
+    },
+    {
+        "korean": "따갑다",
+        "english": "Hot, Stinging"
+    },
+    {
+        "korean": "따뜻하다",
+        "english": "Warm"
+    },
+    {
+        "korean": "따스하다",
+        "english": "Warm*"
+    },
+    {
+        "korean": "딱딱하다",
+        "english": "Firm, Stiff"
+    },
+    {
+        "korean": "떠들썩하다",
+        "english": "Noisy, Uproarious"
+    },
+    {
+        "korean": "떳떳하다",
+        "english": "Honorable"
+    },
+    {
+        "korean": "또같다",
+        "english": "Same, Identical"
+    },
+    {
+        "korean": "똑똑하다",
+        "english": "Smart, Clever"
+    },
+    {
+        "korean": "뚜렷하다",
+        "english": "Clear, Distinct"
+    },
+    {
+        "korean": "뚱뚱하다",
+        "english": "Fat, Overweight"
+    },
+    {
+        "korean": "뛰어나다",
+        "english": "Outstanding, Good"
+    },
+    {
+        "korean": "뜨겁다",
+        "english": "Hot, Burning"
+    },
+    {
+        "korean": "마땅하다",
+        "english": "Natural, Right, Proper"
+    },
+    {
+        "korean": "막강하다",
+        "english": "Powerful, Strong"
+    },
+    {
+        "korean": "막대하다",
+        "english": "Huge, Enormous"
+    },
+    {
+        "korean": "막막하다",
+        "english": "At A Loss"
+    },
+    {
+        "korean": "막연하다",
+        "english": "Vague"
+    },
+    {
+        "korean": "만만하다",
+        "english": "Easy To Deal With"
+    },
+    {
+        "korean": "만족스럽다",
+        "english": "Satisfactory"
+    },
+    {
+        "korean": "많다",
+        "english": "Many, Much"
+    },
+    {
+        "korean": "맑다",
+        "english": "Clear, Sunny"
+    },
+    {
+        "korean": "맛없다",
+        "english": "(Taste) Bad"
+    },
+    {
+        "korean": "맛있다",
+        "english": "Delicious"
+    },
+    {
+        "korean": "맵다",
+        "english": "Spicy, Hot"
+    },
+    {
+        "korean": "머지않다",
+        "english": "Soon, Before Long"
+    },
+    {
+        "korean": "멀다",
+        "english": "Far, Distant"
+    },
+    {
+        "korean": "멀쩡하다",
+        "english": "Intact, Sober, Insane"
+    },
+    {
+        "korean": "멋있다",
+        "english": "Wonderful, Nice"
+    },
+    {
+        "korean": "멋지다",
+        "english": "Wonderful, Nice"
+    },
+    {
+        "korean": "명백하다",
+        "english": "Obvious, Clear"
+    },
+    {
+        "korean": "명확하다",
+        "english": "Clear, Obvious"
+    },
+    {
+        "korean": "모질다",
+        "english": "Hard, Severe"
+    },
+    {
+        "korean": "모호하다",
+        "english": "Vague, Ambiguous"
+    },
+    {
+        "korean": "못되다",
+        "english": "Bad, Mean"
+    },
+    {
+        "korean": "못생기다",
+        "english": "Ugly, Unattractive"
+    },
+    {
+        "korean": "못지않다",
+        "english": "Not Inferior"
+    },
+    {
+        "korean": "못하다",
+        "english": "Inferior"
+    },
+    {
+        "korean": "묘하다",
+        "english": "Odd, Strange"
+    },
+    {
+        "korean": "무겁다",
+        "english": "Heavy"
+    },
+    {
+        "korean": "무관심하다",
+        "english": "Indifferent"
+    },
+    {
+        "korean": "무관하다",
+        "english": "Irrelevant, Unrelated"
+    },
+    {
+        "korean": "무덥다",
+        "english": "Stifling, Sweltering"
+    },
+    {
+        "korean": "무리하다",
+        "english": "Excessive"
+    },
+    {
+        "korean": "무모하다",
+        "english": "Reckless, Rash"
+    },
+    {
+        "korean": "무사하다",
+        "english": "Safe, Unharmed"
+    },
+    {
+        "korean": "무섭다",
+        "english": "Scary, Scared"
+    },
+    {
+        "korean": "무성하다",
+        "english": "Thick, Overgrown"
+    },
+    {
+        "korean": "무수하다",
+        "english": "Countless, Myriad"
+    },
+    {
+        "korean": "무심하다",
+        "english": "Indifferent, Inattentive"
+    },
+    {
+        "korean": "무의미하다",
+        "english": "Meaningless"
+    },
+    {
+        "korean": "무책임하다",
+        "english": "Irresponsible"
+    },
+    {
+        "korean": "무한하다",
+        "english": "Infinite, Limitless"
+    },
+    {
+        "korean": "묽다",
+        "english": "Watery, Thin"
+    },
+    {
+        "korean": "미끄럽다",
+        "english": "Slippery, Slick"
+    },
+    {
+        "korean": "미묘하다",
+        "english": "Delicate, Subtle"
+    },
+    {
+        "korean": "미안하다",
+        "english": "Sorry"
+    },
+    {
+        "korean": "미흡하다",
+        "english": "Insufficient, Unsatisfactory"
+    },
+    {
+        "korean": "민감하다",
+        "english": "Sensitive"
+    },
+    {
+        "korean": "민망하다",
+        "english": "Embarrassed, Ashamed"
+    },
+    {
+        "korean": "밀접하다",
+        "english": "Close, Intimate"
+    },
+    {
+        "korean": "밉다",
+        "english": "Detestable"
+    },
+    {
+        "korean": "바람직하다",
+        "english": "Desirable"
+    },
+    {
+        "korean": "바르다",
+        "english": "Straight, Correct, Right"
+    },
+    {
+        "korean": "바쁘다",
+        "english": "Busy"
+    },
+    {
+        "korean": "반갑다",
+        "english": "Glad, Happy"
+    },
+    {
+        "korean": "밝다",
+        "english": "Bright, Light"
+    },
+    {
+        "korean": "밤늦다",
+        "english": "Late At Night"
+    },
+    {
+        "korean": "배고프다",
+        "english": "Hungry"
+    },
+    {
+        "korean": "배부르다",
+        "english": "Full, Stuffed"
+    },
+    {
+        "korean": "벅차다",
+        "english": "Hard To Manage, Full"
+    },
+    {
+        "korean": "번거롭다",
+        "english": "Cumbersome, Inconvenient"
+    },
+    {
+        "korean": "별다르다",
+        "english": "Particular, Special"
+    },
+    {
+        "korean": "복잡하다",
+        "english": "Complicated, Complex"
+    },
+    {
+        "korean": "부끄럽다",
+        "english": "Shy, Ashamed"
+    },
+    {
+        "korean": "부당하다",
+        "english": "Unfair, Unjust"
+    },
+    {
+        "korean": "부드럽다",
+        "english": "Soft, Smooth"
+    },
+    {
+        "korean": "부럽다",
+        "english": "Envious"
+    },
+    {
+        "korean": "부르다",
+        "english": "Full"
+    },
+    {
+        "korean": "부실하다",
+        "english": "Weak, Poor"
+    },
+    {
+        "korean": "부족하다",
+        "english": "Insufficient"
+    },
+    {
+        "korean": "부지런하다",
+        "english": "Diligent"
+    },
+    {
+        "korean": "분명하다",
+        "english": "Clear, Distinct"
+    },
+    {
+        "korean": "분주하다",
+        "english": "Busy"
+    },
+    {
+        "korean": "불가능하다",
+        "english": "Impossible"
+    },
+    {
+        "korean": "불가피하다",
+        "english": "Inevitable, Unavoidable"
+    },
+    {
+        "korean": "불과하다",
+        "english": "Only, No More Than"
+    },
+    {
+        "korean": "불길하다",
+        "english": "Ominous, Foreboding"
+    },
+    {
+        "korean": "불리하다",
+        "english": "Unfavorable"
+    },
+    {
+        "korean": "불쌍하다",
+        "english": "Pitiful, Pathetic"
+    },
+    {
+        "korean": "불안정하다",
+        "english": "Unstable, Insecure"
+    },
+    {
+        "korean": "불안하다",
+        "english": "Anxious, Uneasy"
+    },
+    {
+        "korean": "불완전하다",
+        "english": "Incomplete, Imperfect"
+    },
+    {
+        "korean": "불투명하다",
+        "english": "Opaque, Uncertain"
+    },
+    {
+        "korean": "불편하다",
+        "english": "Uncomfortable, Inconvenient"
+    },
+    {
+        "korean": "불평등하다",
+        "english": "Unfair, Unequal"
+    },
+    {
+        "korean": "불필요하다",
+        "english": "Unnecessary, Useless"
+    },
+    {
+        "korean": "불행하다",
+        "english": "Unhappy, Unfortunate"
+    },
+    {
+        "korean": "불확실하다",
+        "english": "Uncertain, Unclear"
+    },
+    {
+        "korean": "붉다",
+        "english": "Red"
+    },
+    {
+        "korean": "비슷하다",
+        "english": "Similar, Alike, Like"
+    },
+    {
+        "korean": "비싸다",
+        "english": "Expensive, Costly"
+    },
+    {
+        "korean": "빠르다",
+        "english": "Fast, Quick"
+    },
+    {
+        "korean": "빨갛다",
+        "english": "Red"
+    },
+    {
+        "korean": "뻔하다",
+        "english": "Clear, Obvious"
+    },
+    {
+        "korean": "뾰족하다",
+        "english": "Sharp, Pointed"
+    },
+    {
+        "korean": "사납다",
+        "english": "Wild, Fierce"
+    },
+    {
+        "korean": "사랑스럽다",
+        "english": "Lovely, Cute"
+    },
+    {
+        "korean": "사소하다",
+        "english": "Trivial, Minor"
+    },
+    {
+        "korean": "사이좋다",
+        "english": "On Good Terms"
+    },
+    {
+        "korean": "상관없다",
+        "english": "Unrelated, Fine, Okay"
+    },
+    {
+        "korean": "상당하다",
+        "english": "Considerable, Sizeable"
+    },
+    {
+        "korean": "상쾌하다",
+        "english": "Fresh, Refreshing"
+    },
+    {
+        "korean": "새롭다",
+        "english": "New, Fresh"
+    },
+    {
+        "korean": "색다르다",
+        "english": "Unusual, Unconventional"
+    },
+    {
+        "korean": "생생하다",
+        "english": "Vivid, Graphic"
+    },
+    {
+        "korean": "서늘하다",
+        "english": "Cool, Chilly"
+    },
+    {
+        "korean": "서투르다",
+        "english": "Poor, Unskilled"
+    },
+    {
+        "korean": "선명하다",
+        "english": "Clear, Distinct, Vivid"
+    },
+    {
+        "korean": "선하다",
+        "english": "Good, Nice"
+    },
+    {
+        "korean": "섬세하다",
+        "english": "Delicate, Exquisite"
+    },
+    {
+        "korean": "섭섭하다",
+        "english": "Sorry, Disappointed"
+    },
+    {
+        "korean": "성급하다",
+        "english": "Hasty, Impatient"
+    },
+    {
+        "korean": "성실하다",
+        "english": "Faithful, Sincere"
+    },
+    {
+        "korean": "세다",
+        "english": "Strong, Powerful"
+    },
+    {
+        "korean": "세련되다",
+        "english": "Refined, Sophisticated"
+    },
+    {
+        "korean": "세심하다",
+        "english": "Careful, Scrupulous"
+    },
+    {
+        "korean": "섹시하다",
+        "english": "Sexy, Hot"
+    },
+    {
+        "korean": "소박하다",
+        "english": "Simple, Plain"
+    },
+    {
+        "korean": "소용하다",
+        "english": "Useless"
+    },
+    {
+        "korean": "소중하다",
+        "english": "Precious, Valuable, Dear"
+    },
+    {
+        "korean": "속상하다",
+        "english": "Upset, Annoyed"
+    },
+    {
+        "korean": "손쉽다",
+        "english": "Easy"
+    },
+    {
+        "korean": "솔직하다",
+        "english": "Honest, Open"
+    },
+    {
+        "korean": "수많다",
+        "english": "A Lot Of, Numerous"
+    },
+    {
+        "korean": "순박하다",
+        "english": "Simple, Naive"
+    },
+    {
+        "korean": "순수하다",
+        "english": "Pure, Innocent"
+    },
+    {
+        "korean": "순진하다",
+        "english": "Innocent, Naive"
+    },
+    {
+        "korean": "순하다",
+        "english": "Gentle, Mild"
+    },
+    {
+        "korean": "숱하다",
+        "english": "Numerous"
+    },
+    {
+        "korean": "쉽다",
+        "english": "Easy, Simple"
+    },
+    {
+        "korean": "슬프다",
+        "english": "Sad, Sorrowful"
+    },
+    {
+        "korean": "시급하다",
+        "english": "Urgent"
+    },
+    {
+        "korean": "시끄럽다",
+        "english": "Noisy, Loud"
+    },
+    {
+        "korean": "시리다",
+        "english": "Cold"
+    },
+    {
+        "korean": "시원하다",
+        "english": "Cool"
+    },
+    {
+        "korean": "시커멓다",
+        "english": "Jet Black"
+    },
+    {
+        "korean": "신기하다",
+        "english": "Amazing, Wonderful"
+    },
+    {
+        "korean": "신기하다",
+        "english": "Novel, New"
+    },
+    {
+        "korean": "신선하다",
+        "english": "Fresh, New"
+    },
+    {
+        "korean": "신성하다",
+        "english": "Sacred, Holy"
+    },
+    {
+        "korean": "신속하다",
+        "english": "Prompt, Quick"
+    },
+    {
+        "korean": "신중하다",
+        "english": "Cautious, Prudent"
+    },
+    {
+        "korean": "신통하다",
+        "english": "Wonderful, Amazing"
+    },
+    {
+        "korean": "싫다",
+        "english": "Hateful"
+    },
+    {
+        "korean": "심각하다",
+        "english": "Serious, Grave"
+    },
+    {
+        "korean": "심심하다",
+        "english": "Bored"
+    },
+    {
+        "korean": "심하다",
+        "english": "Heavy, Severe"
+    },
+    {
+        "korean": "싱겁다",
+        "english": "Bland"
+    },
+    {
+        "korean": "싱싱하다",
+        "english": "Fresh"
+    },
+    {
+        "korean": "싸늘하다",
+        "english": "Chilly, Cold"
+    },
+    {
+        "korean": "싸다",
+        "english": "Cheap, Inexpensive"
+    },
+    {
+        "korean": "썰렁하다",
+        "english": "Chilly, Empty, Corny"
+    },
+    {
+        "korean": "쑥스럽다",
+        "english": "Shy, Embarressed"
+    },
+    {
+        "korean": "쓰다",
+        "english": "Bitter"
+    },
+    {
+        "korean": "쓸데없다",
+        "english": "Unnecessary, Useless"
+    },
+    {
+        "korean": "쓸쓸하다",
+        "english": "Lonely, Solitary"
+    },
+    {
+        "korean": "씩씩하다",
+        "english": "Vigorous, Energetic"
+    },
+    {
+        "korean": "아깝다",
+        "english": "Valuable, Precious, Regrettable"
+    },
+    {
+        "korean": "아니다",
+        "english": "Not"
+    },
+    {
+        "korean": "아득하다",
+        "english": "Distant, Far"
+    },
+    {
+        "korean": "아름답다",
+        "english": "Beautiful"
+    },
+    {
+        "korean": "아무렇다",
+        "english": "Concerned, Meaningful"
+    },
+    {
+        "korean": "아쉽다",
+        "english": "Sorry, Sad"
+    },
+    {
+        "korean": "아프다",
+        "english": "Sick, Painful"
+    },
+    {
+        "korean": "안녕하다",
+        "english": "Fine"
+    },
+    {
+        "korean": "안되다",
+        "english": "Sorry"
+    },
+    {
+        "korean": "안전하다",
+        "english": "Safe, Secure"
+    },
+    {
+        "korean": "안타깝다",
+        "english": "Regrettable, Sad"
+    },
+    {
+        "korean": "알맞다",
+        "english": "Appropriate, Proper, Suitable"
+    },
+    {
+        "korean": "애매하다",
+        "english": "Vague, Uncertain"
+    },
+    {
+        "korean": "야하다",
+        "english": "Erotic, Racy"
+    },
+    {
+        "korean": "약하다",
+        "english": "Weak, Feeble"
+    },
+    {
+        "korean": "얄밉다",
+        "english": "Detestable"
+    },
+    {
+        "korean": "얇다",
+        "english": "Thin, Flimsy"
+    },
+    {
+        "korean": "얌전하다",
+        "english": "Coy, Well Mannered"
+    },
+    {
+        "korean": "얕다",
+        "english": "Shallow"
+    },
+    {
+        "korean": "어둡다",
+        "english": "Dark, Gloomy"
+    },
+    {
+        "korean": "어떻다",
+        "english": "How, Like What"
+    },
+    {
+        "korean": "어렵다",
+        "english": "Difficult, Hard"
+    },
+    {
+        "korean": "어리다",
+        "english": "Young, Little"
+    },
+    {
+        "korean": "어리석다",
+        "english": "Foolish, Absurd"
+    },
+    {
+        "korean": "어색하다",
+        "english": "Awkward"
+    },
+    {
+        "korean": "어지럽하다",
+        "english": "Dizzy, Chaotic"
+    },
+    {
+        "korean": "어처구니없다",
+        "english": "Ridiculous, Absurd"
+    },
+    {
+        "korean": "억울하다",
+        "english": "Unfair"
+    },
+    {
+        "korean": "엄격하다",
+        "english": "Strict, Severe"
+    },
+    {
+        "korean": "엄숙하다",
+        "english": "Solemn, Sober"
+    },
+    {
+        "korean": "엄청나다",
+        "english": "Huge, Great"
+    },
+    {
+        "korean": "없다",
+        "english": "Not Exist, Not Have"
+    },
+    {
+        "korean": "엉뚱하다",
+        "english": "Unpredictable, Strange"
+    },
+    {
+        "korean": "여전하다",
+        "english": "Still The Same"
+    },
+    {
+        "korean": "연하다",
+        "english": "Light, Soft, Weak"
+    },
+    {
+        "korean": "열등하다",
+        "english": "Inferior"
+    },
+    {
+        "korean": "열악하다",
+        "english": "Poor, Inadequate"
+    },
+    {
+        "korean": "엷다",
+        "english": "Light, Pale"
+    },
+    {
+        "korean": "영원하다",
+        "english": "Permanent, Everlasting"
+    },
+    {
+        "korean": "예민하다",
+        "english": "Sensitive"
+    },
+    {
+        "korean": "예쁘다",
+        "english": "Pretty"
+    },
+    {
+        "korean": "오래다",
+        "english": "It’s Been A Long Time"
+    },
+    {
+        "korean": "올바르다",
+        "english": "Right, Proper"
+    },
+    {
+        "korean": "옳다",
+        "english": "Right, Proper"
+    },
+    {
+        "korean": "완벽하다",
+        "english": "Perfect"
+    },
+    {
+        "korean": "완전하다",
+        "english": "Complete, Perfect"
+    },
+    {
+        "korean": "왕성하다",
+        "english": "Energetic, Active"
+    },
+    {
+        "korean": "외롭다",
+        "english": "Lonely, Solitary"
+    },
+    {
+        "korean": "요란하다",
+        "english": "Noisy, Uproarious"
+    },
+    {
+        "korean": "용감하다",
+        "english": "Brave, Courageous"
+    },
+    {
+        "korean": "우수하다",
+        "english": "Excellent, Superb"
+    },
+    {
+        "korean": "우스꽝스럽다",
+        "english": "Ridiculous, Funny"
+    },
+    {
+        "korean": "우습다",
+        "english": "Funny, Humorous"
+    },
+    {
+        "korean": "우아하다",
+        "english": "Elegant, Graceful"
+    },
+    {
+        "korean": "우울하다",
+        "english": "Gloomy, Depressed"
+    },
+    {
+        "korean": "원만하다",
+        "english": "Amicable, Easy Going"
+    },
+    {
+        "korean": "원활하다",
+        "english": "Smooth"
+    },
+    {
+        "korean": "웬만하다",
+        "english": "Tolerable, Fairly Good"
+    },
+    {
+        "korean": "위대하다",
+        "english": "Great"
+    },
+    {
+        "korean": "위험하다",
+        "english": "Dangerous"
+    },
+    {
+        "korean": "유능하다",
+        "english": "Competent"
+    },
+    {
+        "korean": "유리하다",
+        "english": "Advantageous"
+    },
+    {
+        "korean": "유명하다",
+        "english": "Famous"
+    },
+    {
+        "korean": "유사하다",
+        "english": "Similar, Alike, Like"
+    },
+    {
+        "korean": "유용하다",
+        "english": "Useful, Helpful"
+    },
+    {
+        "korean": "유일하다",
+        "english": "Only, Sole"
+    },
+    {
+        "korean": "은은하다",
+        "english": "Soft, Subdued, Subtle"
+    },
+    {
+        "korean": "의심스럽다",
+        "english": "Doubtful"
+    },
+    {
+        "korean": "의아하다",
+        "english": "Weird, Doubtful"
+    },
+    {
+        "korean": "이렇다",
+        "english": "Like This"
+    },
+    {
+        "korean": "이롭다",
+        "english": "Beneficial, Advantageous"
+    },
+    {
+        "korean": "이르다",
+        "english": "Early"
+    },
+    {
+        "korean": "이상하다",
+        "english": "Strange, Odd"
+    },
+    {
+        "korean": "익다",
+        "english": "Skilled, Familiar"
+    },
+    {
+        "korean": "익숙하다",
+        "english": "Skilled, Familiar"
+    },
+    {
+        "korean": "일정하다",
+        "english": "Fixed, Constant, Regular"
+    },
+    {
+        "korean": "있다",
+        "english": "To Be, Exist"
+    },
+    {
+        "korean": "자랑스럽다",
+        "english": "Worthy Of Pride"
+    },
+    {
+        "korean": "자세하다",
+        "english": "Detailed"
+    },
+    {
+        "korean": "자연스럽다",
+        "english": "Natural"
+    },
+    {
+        "korean": "자유롭다",
+        "english": "Free, Liberal"
+    },
+    {
+        "korean": "작다",
+        "english": "Small, Little"
+    },
+    {
+        "korean": "잔인하다",
+        "english": "Cruel, Brutal"
+    },
+    {
+        "korean": "잔잔하다",
+        "english": "Calm, Still"
+    },
+    {
+        "korean": "잘나다",
+        "english": "Good, Distinguished"
+    },
+    {
+        "korean": "잘다",
+        "english": "Small, Little, Fine"
+    },
+    {
+        "korean": "잘생기다",
+        "english": "Good Looking, Handsome"
+    },
+    {
+        "korean": "잦다",
+        "english": "Frequent"
+    },
+    {
+        "korean": "재미없다",
+        "english": "Boring, Dull"
+    },
+    {
+        "korean": "재미있다",
+        "english": "Funny, Interesting"
+    },
+    {
+        "korean": "저렇다",
+        "english": "Like That"
+    },
+    {
+        "korean": "적다",
+        "english": "Few, Little, Small"
+    },
+    {
+        "korean": "적당하다",
+        "english": "Moderate, Suitable"
+    },
+    {
+        "korean": "적절하다",
+        "english": "Right, Proper, Appropriate"
+    },
+    {
+        "korean": "적합하다",
+        "english": "Right, Proper, Suitable"
+    },
+    {
+        "korean": "절박하다",
+        "english": "Desperate, Urgent"
+    },
+    {
+        "korean": "절실하다",
+        "english": "Deep, Urgent"
+    },
+    {
+        "korean": "젊다",
+        "english": "Young, Youthful"
+    },
+    {
+        "korean": "점잖다",
+        "english": "Gentle, Decent"
+    },
+    {
+        "korean": "정교하다",
+        "english": "Exquisite, Elaborate"
+    },
+    {
+        "korean": "정답다",
+        "english": "Warm, Friendly"
+    },
+    {
+        "korean": "정당하다",
+        "english": "Just, Fair"
+    },
+    {
+        "korean": "정직하다",
+        "english": "Honest, Truthful"
+    },
+    {
+        "korean": "정확하다",
+        "english": "Accurate, Correct"
+    },
+    {
+        "korean": "조그맣다",
+        "english": "Small, Little"
+    },
+    {
+        "korean": "조심스럽다",
+        "english": "Careful, Cautious"
+    },
+    {
+        "korean": "조용하다",
+        "english": "Silent, Quiet"
+    },
+    {
+        "korean": "좁다",
+        "english": "Narrow, Small"
+    },
+    {
+        "korean": "좋다",
+        "english": "Good, Fine, Fond"
+    },
+    {
+        "korean": "죄송하다",
+        "english": "Sorry"
+    },
+    {
+        "korean": "주요하다",
+        "english": "Major, Main"
+    },
+    {
+        "korean": "줄기차다",
+        "english": "Constant, Incessant"
+    },
+    {
+        "korean": "중대하다",
+        "english": "Significant, Serious"
+    },
+    {
+        "korean": "중요하다",
+        "english": "Important"
+    },
+    {
+        "korean": "즐겁다",
+        "english": "Pleasant, Happy"
+    },
+    {
+        "korean": "지겹다",
+        "english": "Boring, Tiresome"
+    },
+    {
+        "korean": "지나치다",
+        "english": "Excessive"
+    },
+    {
+        "korean": "지독하다",
+        "english": "Hard, Terrible, Severe"
+    },
+    {
+        "korean": "지루하다",
+        "english": "Boring, Bored"
+    },
+    {
+        "korean": "지저분하다",
+        "english": "Dirty, Messy"
+    },
+    {
+        "korean": "진실하다",
+        "english": "Truthful, Sincere"
+    },
+    {
+        "korean": "진정하다",
+        "english": "True, Real"
+    },
+    {
+        "korean": "진지하다",
+        "english": "Serious, Earnest"
+    },
+    {
+        "korean": "진하다",
+        "english": "Dark, Deep, Thick"
+    },
+    {
+        "korean": "짙다",
+        "english": "Deep, Dark"
+    },
+    {
+        "korean": "짜다",
+        "english": "Salty, Stingy"
+    },
+    {
+        "korean": "짜증스럽다",
+        "english": "Irritating, Annoying"
+    },
+    {
+        "korean": "Annoyed",
+        "english": ""
+    },
+    {
+        "korean": "짧다",
+        "english": "Short, Brief"
+    },
+    {
+        "korean": "차갑다",
+        "english": "Cold"
+    },
+    {
+        "korean": "차다",
+        "english": "Cold, Chilly"
+    },
+    {
+        "korean": "차분하다",
+        "english": "Calm, Cool"
+    },
+    {
+        "korean": "착잡하다",
+        "english": "Mixed And Uneasy"
+    },
+    {
+        "korean": "착하다",
+        "english": "Good"
+    },
+    {
+        "korean": "Natured",
+        "english": ""
+    },
+    {
+        "korean": "찬란하다",
+        "english": "Brilliant, Splendid"
+    },
+    {
+        "korean": "참답다",
+        "english": "True"
+    },
+    {
+        "korean": "참되다",
+        "english": "True, Real"
+    },
+    {
+        "korean": "참신하다",
+        "english": "Original, New, Fresh"
+    },
+    {
+        "korean": "창피하다",
+        "english": "Ashamed, Embarrassed"
+    },
+    {
+        "korean": "철저하다",
+        "english": "Thorough"
+    },
+    {
+        "korean": "초라하다",
+        "english": "Shabby, Humble"
+    },
+    {
+        "korean": "초조하다",
+        "english": "Restless, Nervous, Anxious"
+    },
+    {
+        "korean": "촌스럽다",
+        "english": "Countrified"
+    },
+    {
+        "korean": "춥다",
+        "english": "Cold, Chilly (Weather)"
+    },
+    {
+        "korean": "충분하다",
+        "english": "Enough"
+    },
+    {
+        "korean": "충실하다",
+        "english": "Faithful, Loyal"
+    },
+    {
+        "korean": "치밀하다",
+        "english": "Elaborate, Meticulous"
+    },
+    {
+        "korean": "치열하다",
+        "english": "Fierce, Intense"
+    },
+    {
+        "korean": "친절하다",
+        "english": "Kind"
+    },
+    {
+        "korean": "친하다",
+        "english": "Close"
+    },
+    {
+        "korean": "침착하다",
+        "english": "Calm, Poised"
+    },
+    {
+        "korean": "캄캄하다",
+        "english": "Very Dark"
+    },
+    {
+        "korean": "커다랗다",
+        "english": "Big, Large, Huge"
+    },
+    {
+        "korean": "크다",
+        "english": "Big, Large"
+    },
+    {
+        "korean": "타당하다",
+        "english": "Reasonable"
+    },
+    {
+        "korean": "탁월하다",
+        "english": "Excellent, Superior"
+    },
+    {
+        "korean": "투명하다",
+        "english": "Transparent"
+    },
+    {
+        "korean": "특별하다",
+        "english": "Special"
+    },
+    {
+        "korean": "특수하다",
+        "english": "Special, Unusual"
+    },
+    {
+        "korean": "특이하다",
+        "english": "Unusual, Unique"
+    },
+    {
+        "korean": "특정하다",
+        "english": "Particular, Certain"
+    },
+    {
+        "korean": "튼튼하다",
+        "english": "Strong, Sturdy"
+    },
+    {
+        "korean": "틀림하다",
+        "english": "Sure, Certain"
+    },
+    {
+        "korean": "파랗다",
+        "english": "Blue"
+    },
+    {
+        "korean": "편리하다",
+        "english": "Convenient"
+    },
+    {
+        "korean": "편안하다",
+        "english": "Comfortable"
+    },
+    {
+        "korean": "편하다",
+        "english": "Comfortable, Relaxed, Convenient"
+    },
+    {
+        "korean": "평등하다",
+        "english": "Equal"
+    },
+    {
+        "korean": "평범하다",
+        "english": "Ordinary, Common"
+    },
+    {
+        "korean": "평화하다",
+        "english": "Peaceful"
+    },
+    {
+        "korean": "포근하다",
+        "english": "Cozy, Warm"
+    },
+    {
+        "korean": "폭넓다",
+        "english": "Wide, Extensive"
+    },
+    {
+        "korean": "푸르다",
+        "english": "Blue, Azure, Green"
+    },
+    {
+        "korean": "풍부하다",
+        "english": "Rich, Plentiful"
+    },
+    {
+        "korean": "풍성하다",
+        "english": "Plentiful, Abundant"
+    },
+    {
+        "korean": "피곤하다",
+        "english": "Tired, Fatigued"
+    },
+    {
+        "korean": "피로하다",
+        "english": "Tired, Fatigued"
+    },
+    {
+        "korean": "필요하다",
+        "english": "Necessary"
+    },
+    {
+        "korean": "하얗다",
+        "english": "White"
+    },
+    {
+        "korean": "하찮다",
+        "english": "Trivial, Trifling"
+    },
+    {
+        "korean": "한가하다",
+        "english": "Free"
+    },
+    {
+        "korean": "한심하다",
+        "english": "Pathetic, Pitiful"
+    },
+    {
+        "korean": "해롭다",
+        "english": "Harmful, Bad"
+    },
+    {
+        "korean": "행복하다",
+        "english": "Happy"
+    },
+    {
+        "korean": "허름하다",
+        "english": "Shabby, Humble"
+    },
+    {
+        "korean": "허망하다",
+        "english": "Vain, Futile"
+    },
+    {
+        "korean": "허무하다",
+        "english": "Vain, Futile"
+    },
+    {
+        "korean": "험하다",
+        "english": "Rough, Rugged"
+    },
+    {
+        "korean": "현명하다",
+        "english": "Wise"
+    },
+    {
+        "korean": "화려하다",
+        "english": "Fancy, Colorful"
+    },
+    {
+        "korean": "확고하다",
+        "english": "Firm, Solid"
+    },
+    {
+        "korean": "확실하다",
+        "english": "Sure, Certain"
+    },
+    {
+        "korean": "환하다",
+        "english": "Bright, Light"
+    },
+    {
+        "korean": "활발하다",
+        "english": "Vigorous, Active"
+    },
+    {
+        "korean": "황당하다",
+        "english": "Dumbfounded, Aghast"
+    },
+    {
+        "korean": "황량하다",
+        "english": "Bleak, Desolate"
+    },
+    {
+        "korean": "훌륭하다",
+        "english": "Excellent, Great, Honorable"
+    },
+    {
+        "korean": "흐리다",
+        "english": "Cloudy, Dim"
+    },
+    {
+        "korean": "흐뭇하다",
+        "english": "Pleased, Satisfied"
+    },
+    {
+        "korean": "흔하다",
+        "english": "Common, Commonplace"
+    },
+    {
+        "korean": "흥미롭다",
+        "english": "Interesting"
+    },
+    {
+        "korean": "희다",
+        "english": "White"
+    },
+    {
+        "korean": "희미하다",
+        "english": "Dim, Faint"
+    },
+    {
+        "korean": "힘겹하다",
+        "english": "Hard, Tough"
+    },
+    {
+        "korean": "힘들다힘차다",
+        "english": "Hard, Difficult, Strenuous"
+    },
+    {
+        "korean": "힘차다",
+        "english": "Powerful, Vigorous"
+    }
+]
