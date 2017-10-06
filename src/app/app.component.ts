@@ -10,7 +10,8 @@ import { DataService } from './data.service';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent implements OnInit {
-  readonly OPTIONS_COUNT = 4;
+  OPTIONS_COUNT = 4;
+  INVERT = false;
 
   question: Question;
   lastCorrect: boolean = true;
@@ -43,7 +44,7 @@ export class AppComponent implements OnInit {
   }
 
   isCorrect(option: Data) {
-    this.lastCorrect = option.korean === this.question.source.korean;
+    this.lastCorrect = this.INVERT ? option.english === this.question.source.english : option.korean === this.question.source.korean;
 
     this.lastQuestion = this.question;
     this.attempts++;

@@ -1,6 +1,7 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { HttpModule } from '@angular/http';
 import { NgModule } from '@angular/core';
+import { FormsModule } from '@angular/forms';
 
 import 'rxjs/add/operator/map';
 import 'rxjs/add/observable/forkJoin';
@@ -14,6 +15,7 @@ import { AppComponent } from './app.component';
   ],
   imports: [
     HttpModule,
+    FormsModule,
     BrowserModule
   ],
   providers: [DataService],

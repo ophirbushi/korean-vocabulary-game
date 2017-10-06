@@ -1,14 +1,21 @@
-<h2>{{ question?.source?.korean }}</h2>
+<form>
+  <label>Options Count </label>
+  <input name="options-count" type="number" [(ngModel)]="OPTIONS_COUNT">
+  <br />
+  <br />
+  <input name="invert" type="checkbox" [(ngModel)]="INVERT">Invert
+</form>
+
+<h2>{{ INVERT ? question?.source?.english : question?.source?.korean }}</h2>
 
 <ul>
-  <li *ngFor="let option of question?.options" (click)="isCorrect(option)">{{option?.english}}</li>
+  <li *ngFor="let option of question?.options" (click)="isCorrect(option)">{{ INVERT ? option?.korean : option?.english }}</li>
 </ul>
 
 <ng-container *ngIf="lastQuestion">
   <h3 [ngStyle]="{color: (lastCorrect ? 'green' : 'red') }">{{lastCorrect}}</h3>
-  <div class="correct">{{lastQuestion.source?.korean}} = {{lastQuestion.source?.english}}</div>
+  <div class="correct">{{INVERT ? lastQuestion.source?.english : lastQuestion.source?.korean}} = {{INVERT ? lastQuestion.source?.korean : lastQuestion.source?.english}}</div>
   <div>corrects: {{corrects}}</div>
   <div>attempts: {{attempts}}</div>
   <div>percentage: %{{percentage}}</div>
-
 </ng-container>
