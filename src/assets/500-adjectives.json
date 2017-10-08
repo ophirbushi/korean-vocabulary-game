@@ -1,2010 +1,2462 @@
 [
     {
-        "korean": "가깝다",
-        "english": "Close, Near"
+        "korean": "가난하다",
+        "english": "Poor, Needy",
+        "id": "Mzg3MTgxNzg3NzUyMzgwNw=="
     },
     {
-        "korean": "가난하다",
-        "english": "Poor, Needy"
+        "korean": "가깝다",
+        "english": "Close, Near",
+        "id": "OTgxMDE5NDcyNzYyOTk2Mg=="
     },
     {
         "korean": "가늘다",
-        "english": "Thin, Slender, Fine"
+        "english": "Thin, Slender, Fine",
+        "id": "NjA1OTI2NTA2ODk1NTQ4NA=="
     },
     {
         "korean": "가능하다",
-        "english": "Possible, Feasible"
+        "english": "Possible, Feasible",
+        "id": "NTg3OTkxNzE2MjI3NTEzOQ=="
     },
     {
         "korean": "가득하다",
-        "english": "Full, Crammed"
-    },
-    {
-        "korean": "가볍다",
-        "english": "Light, Slight"
+        "english": "Full, Crammed",
+        "id": "NTA5MzM0MTQ5Njg1OTE3Mg=="
     },
     {
         "korean": "가혹하다",
-        "english": "Severe, Harsh"
+        "english": "Severe, Harsh",
+        "id": "MTY4NzkzNTI5ODYxMDc2MQ=="
     },
     {
         "korean": "간단하다",
-        "english": "Simple, Easy, Brief"
+        "english": "Simple, Easy, Brief",
+        "id": "MzUyODY4NTIxMTU1ODc3OA=="
     },
     {
         "korean": "간절하다",
-        "english": "Ardent, Earnest"
+        "english": "Ardent, Earnest",
+        "id": "OTgyMTU0Mzg5ODM5MTIwMg=="
     },
     {
         "korean": "간편하다",
-        "english": "Simple, Convenient"
-    },
-    {
-        "korean": "감사하다",
-        "english": "Thankful"
+        "english": "Simple, Convenient",
+        "id": "MTc2NDM4ODU5NTA3MjUyMQ=="
     },
     {
         "korean": "갑작스럽다",
-        "english": "Sudden, Abrupt"
+        "english": "Sudden, Abrupt",
+        "id": "MjUxMzA3MjgwNDY1NDYw"
     },
     {
         "korean": "값싸다",
-        "english": "Cheap, Inexpensive"
+        "english": "Cheap, Inexpensive",
+        "id": "NjUzODQzOTA2NjI5MjYwMQ=="
     },
     {
         "korean": "강력하다",
-        "english": "Strong, Powerful"
+        "english": "Strong, Powerful",
+        "id": "OTc4ODY2ODY1NzA5NzEzMg=="
     },
     {
         "korean": "강렬하다",
-        "english": "Strong, Intense"
+        "english": "Strong, Intense",
+        "id": "MjcxMjczMzEyMjQ2NDM2Ng=="
     },
     {
         "korean": "강하다",
-        "english": "Strong, Powerful"
+        "english": "Strong, Powerful",
+        "id": "MjQ2OTU2NDE1MDU2MDk0MQ=="
     },
     {
         "korean": "같다",
-        "english": "Same, Identical: Similar"
+        "english": "Same, Identical: Similar",
+        "id": "ODk0NjkwNzYzMDExNTQ4Mg=="
     },
     {
         "korean": "거대하다",
-        "english": "Huge, Great"
+        "english": "Huge, Great",
+        "id": "Njk1MTcxODI3ODcwNDQ0Ng=="
     },
     {
         "korean": "거룩하다",
-        "english": "Holy, Divine"
+        "english": "Holy, Divine",
+        "id": "NTE1ODk4Nzk0ODE3ODMx"
     },
     {
         "korean": "거세다",
-        "english": "Fierce, Strong"
+        "english": "Fierce, Strong",
+        "id": "ODAxNDI3OTI0NzQxNDQ2NA=="
     },
     {
         "korean": "거창하다",
-        "english": "Grand, Grandiose"
+        "english": "Grand, Grandiose",
+        "id": "OTU1NjgxNDkyNDY5MjgxMg=="
     },
     {
         "korean": "거칠다",
-        "english": "Rough, Coarse"
+        "english": "Rough, Coarse",
+        "id": "MjY1MDUzNTI1NTQwNTY5Nw=="
     },
     {
         "korean": "걱정스럽다",
-        "english": "Anxious, Troubled"
-    },
-    {
-        "korean": "건강하다",
-        "english": "Healthy, Well"
+        "english": "Anxious, Troubled",
+        "id": "OTQyMTA4MzY0OTg5ODI0"
     },
     {
         "korean": "건전하다",
-        "english": "Sound, Healthy"
+        "english": "Sound, Healthy",
+        "id": "Mzc5OTc2ODE2MjQxNzk3NA=="
     },
     {
         "korean": "건조하다",
-        "english": "Dry, Arid"
+        "english": "Dry, Arid",
+        "id": "MjM1MjQzNjgwNjY2ODYxMA=="
     },
     {
         "korean": "걸맞다",
-        "english": "Suitable, Fit"
+        "english": "Suitable, Fit",
+        "id": "NTYzMzQ3NzAxMTk4NjEx"
     },
     {
         "korean": "검다",
-        "english": "Black"
+        "english": "Black",
+        "id": "ODI1MTUzNzA3OTk1Nzk2OQ=="
     },
     {
         "korean": "게으르다",
-        "english": "Lazy, Idle"
+        "english": "Lazy, Idle",
+        "id": "NDA0NTExNDYyMjgwMzA1OQ=="
     },
     {
         "korean": "격렬하다",
-        "english": "Intense, Fierce"
+        "english": "Intense, Fierce",
+        "id": "NDU5MzAyNzY3NzcwMTcwNA=="
     },
     {
         "korean": "경쾌하다",
-        "english": "Light, Rhythmical"
+        "english": "Light, Rhythmical",
+        "id": "NzAxODQ0ODMwMzQwNDM2MQ=="
     },
     {
         "korean": "고급스럽다",
-        "english": "Luxurious, Classy"
+        "english": "Luxurious, Classy",
+        "id": "NDczMDc0NTg1MzkxMTA3OA=="
     },
     {
         "korean": "고르다",
-        "english": "Even, Regular"
-    },
-    {
-        "korean": "고맙다",
-        "english": "Thankful"
+        "english": "Even, Regular",
+        "id": "NzE0NzY4Mjk3MzI2Nzk5OQ=="
     },
     {
         "korean": "고소하다",
-        "english": "To Have A Sesame Taste"
+        "english": "To Have A Sesame Taste",
+        "id": "NDU5Mjk4NDEyOTIyNzMxOA=="
     },
     {
         "korean": "고요하다",
-        "english": "Quiet, Tranquil, Calm"
+        "english": "Quiet, Tranquil, Calm",
+        "id": "OTY0NzU2ODIyMjI1ODgyMA=="
     },
     {
         "korean": "고유하다",
-        "english": "Indigenous, Inherent"
+        "english": "Indigenous, Inherent",
+        "id": "NjI3Njc3ODczODI3Njg2Mw=="
     },
     {
         "korean": "고통스럽다",
-        "english": "Painful, Agonizing"
+        "english": "Painful, Agonizing",
+        "id": "MjcwOTgwNzc4MTczODY0"
     },
     {
         "korean": "고프다",
-        "english": "Hungry"
+        "english": "Hungry",
+        "id": "NTQzMTUzMTUwMDM3NzI2NQ=="
     },
     {
         "korean": "곤란하다",
-        "english": "Difficult, Tough, Embarrasing"
+        "english": "Difficult, Tough, Embarrasing",
+        "id": "MjM1MTc4NzQ5MDE1MTQ4Nw=="
     },
     {
         "korean": "곧다",
-        "english": "Straight, Upright"
+        "english": "Straight, Upright",
+        "id": "MzAxOTcyMzQzMjM5NzE1Mg=="
     },
     {
         "korean": "곱다",
-        "english": "Soft, Nice, Beautiful"
+        "english": "Soft, Nice, Beautiful",
+        "id": "MzMyOTI3MjU4NTM0MjkxOA=="
     },
     {
         "korean": "공정하다",
-        "english": "Just, Fair"
+        "english": "Just, Fair",
+        "id": "MzY1NzgzMzQwNDU1MzE0Ng=="
     },
     {
         "korean": "공평하다",
-        "english": "Fair, Impartial"
+        "english": "Fair, Impartial",
+        "id": "ODg1MDI0MzkzNTQ0MjIyNg=="
     },
     {
         "korean": "공허하다",
-        "english": "Empty, Hollow"
+        "english": "Empty, Hollow",
+        "id": "NTI4MDMwOTQ5NTY4NjMy"
     },
     {
         "korean": "과감하다",
-        "english": "Drastic, Bold"
+        "english": "Drastic, Bold",
+        "id": "MzU3ODY4ODcyODM5ODQ2Nw=="
     },
     {
         "korean": "과도하다",
-        "english": "Excessive"
+        "english": "Excessive",
+        "id": "ODM1NjQ2MzI3NDU5NTk2Nw=="
     },
     {
         "korean": "광범위하다",
-        "english": "Extensive, Widespread"
-    },
-    {
-        "korean": "괜찮다",
-        "english": "Fine, Ok"
+        "english": "Extensive, Widespread",
+        "id": "MjM0MTc2NTQ0NzQyNzI4Nw=="
     },
     {
         "korean": "괴롭다",
-        "english": "Painful, Distressed"
+        "english": "Painful, Distressed",
+        "id": "OTI3MzIxODU0OTg5MTE1Ng=="
     },
     {
         "korean": "굉장하다",
-        "english": "Wonderful, Great"
+        "english": "Wonderful, Great",
+        "id": "Njg2MTQ4NDA2MTgzNTAyOA=="
     },
     {
         "korean": "굳다",
-        "english": "Hard, Stiff, Strong"
+        "english": "Hard, Stiff, Strong",
+        "id": "MjQ1ODA2MTQ1MjE1MTc5NA=="
     },
     {
         "korean": "굵다",
-        "english": "Thick, Big"
-    },
-    {
-        "korean": "궁금하다",
-        "english": "Curious"
-    },
-    {
-        "korean": "귀엽다",
-        "english": "Cute, Lovely"
+        "english": "Thick, Big",
+        "id": "NDQ3OTI2OTUxMDk3MTUwNA=="
     },
     {
         "korean": "귀중하다",
-        "english": "Precious, Valuable"
+        "english": "Precious, Valuable",
+        "id": "MTU5NzM1MzIyNzExOTc4Mg=="
     },
     {
         "korean": "귀찮다",
-        "english": "Troublesome, Tiresome"
+        "english": "Troublesome, Tiresome",
+        "id": "NTUwNzkzNDIwNDE2MzMxOA=="
     },
     {
         "korean": "귀하다",
-        "english": "Precious, Valuable, Rare"
+        "english": "Precious, Valuable, Rare",
+        "id": "MTU0NjkwNzEzNjc3NDgwNQ=="
     },
     {
         "korean": "그럴듯하다",
-        "english": "Plausible"
-    },
-    {
-        "korean": "그렇다",
-        "english": "So, True"
+        "english": "Plausible",
+        "id": "NDY0NDA3NDI3NDExOTYxOA=="
     },
     {
         "korean": "그르다",
-        "english": "Wrong, Incorrect"
+        "english": "Wrong, Incorrect",
+        "id": "NzU4OTg3NTk5Mjc3MzQ5NA=="
     },
     {
         "korean": "그립다",
-        "english": "Miss, Long For"
+        "english": "Miss, Long For",
+        "id": "MzE5NTI3OTg0OTU3OTE4OQ=="
     },
     {
         "korean": "그만하다",
-        "english": "As Much As That"
+        "english": "As Much As That",
+        "id": "NzQxMzU2MDU4MzIxNzgz"
     },
     {
         "korean": "그윽하다",
-        "english": "Deep And Delicate"
+        "english": "Deep And Delicate",
+        "id": "NTQwMDgwODIzNTc1NzY4NA=="
     },
     {
         "korean": "극심하다",
-        "english": "Extreme, Severe"
+        "english": "Extreme, Severe",
+        "id": "NDY2NjIwNTYyNTU3NjA3Mg=="
     },
     {
         "korean": "급격하다",
-        "english": "Sharp, Rapid, Drastic"
+        "english": "Sharp, Rapid, Drastic",
+        "id": "NTQ2Mjg1MTk1OTE0ODgwMA=="
     },
     {
         "korean": "급급하다",
-        "english": "Busy"
+        "english": "Busy",
+        "id": "OTcwNjg1NTkxMTA1ODk3Ng=="
     },
     {
         "korean": "급하다",
-        "english": "Impetuous, Urgent"
-    },
-    {
-        "korean": "기쁘다",
-        "english": "Glad, Happy"
-    },
-    {
-        "korean": "길다",
-        "english": "Long, Lengthy"
+        "english": "Impetuous, Urgent",
+        "id": "NDQwMjAzNjY3NDM1NTQzNg=="
     },
     {
         "korean": "김막히다",
-        "english": "Dumbfounded, Wonderful"
+        "english": "Dumbfounded, Wonderful",
+        "id": "MjA0MzYxMjMzMDExOTU0NA=="
     },
     {
         "korean": "깊다",
-        "english": "Deep"
+        "english": "Deep",
+        "id": "MjI4MzYzOTMyODYwMzUxOA=="
     },
     {
         "korean": "까다롭다",
-        "english": "Difficult, Fussy"
+        "english": "Difficult, Fussy",
+        "id": "OTUxNTc5NTc1MjkyOTQzMA=="
     },
     {
         "korean": "까맣다",
-        "english": "Black"
+        "english": "Black",
+        "id": "NzYzNTk4MTkxNzIwNjMx"
     },
     {
         "korean": "깔끔하다",
-        "english": "Neat, Tidy (ㄲ)"
+        "english": "Neat, Tidy (ㄲ)",
+        "id": "OTIwMTYzODM1MTExMjM1OA=="
     },
     {
         "korean": "깨끗하다",
-        "english": "Clean"
+        "english": "Clean",
+        "id": "MzEzNjMzMjY5ODU3NzMzMw=="
     },
     {
         "korean": "꼼꼼하다",
-        "english": "Meticulous, Precise"
+        "english": "Meticulous, Precise",
+        "id": "NzIyNzE5MjcxMzg4MTg1OA=="
     },
     {
         "korean": "꾸준하다",
-        "english": "Steady, Constant"
+        "english": "Steady, Constant",
+        "id": "OTcwODk2MjQzOTI0NjEx"
     },
     {
         "korean": "끈질기다",
-        "english": "Persistent"
+        "english": "Persistent",
+        "id": "NDY1NTMyNjUzNjE1NjE0MQ=="
     },
     {
         "korean": "끊임없다",
-        "english": "Constant, Incessant"
+        "english": "Constant, Incessant",
+        "id": "OTU5MDgyOTgxMTg2NzM5OA=="
     },
     {
         "korean": "끔찍하다",
-        "english": "Terrible, Awful"
+        "english": "Terrible, Awful",
+        "id": "MTA4MDQ1MDAxNTE4Njg5Ng=="
     },
     {
         "korean": "끝없다",
-        "english": "Endless"
+        "english": "Endless",
+        "id": "NjUwNTgzNTY3MTg0OTc1OA=="
     },
     {
         "korean": "나쁘다",
-        "english": "Bad, Poor"
+        "english": "Bad, Poor",
+        "id": "NTU2MTM5ODI2MzA4MzkxMA=="
     },
     {
         "korean": "난감하다",
-        "english": "Embarrassing"
+        "english": "Embarrassing",
+        "id": "NjM5NTU4MzQ2MTE4ODY5Mg=="
     },
     {
         "korean": "날카롭다",
-        "english": "Sharp"
+        "english": "Sharp",
+        "id": "MzY1NjE2NjA1OTU3MzAzMg=="
     },
     {
         "korean": "낡다",
-        "english": "Old, Shabby, Old Fashioned"
+        "english": "Old, Shabby, Old Fashioned",
+        "id": "MTE4NzAyMTEyMjU1NzM3"
     },
     {
         "korean": "남다르다",
-        "english": "Unusual, Extraordinary"
+        "english": "Unusual, Extraordinary",
+        "id": "OTU5MDgwNDA1NTQ0Njk0OA=="
     },
     {
         "korean": "낫다",
-        "english": "Better, Superior"
+        "english": "Better, Superior",
+        "id": "MTE3NTUxNTM5ODE3NTkwNg=="
     },
     {
         "korean": "낮다",
-        "english": "Low"
+        "english": "Low",
+        "id": "NjkxMTg5NTUwMTg0MTM5"
     },
     {
         "korean": "낯설다",
-        "english": "Unfamiliar"
+        "english": "Unfamiliar",
+        "id": "MzA1NTQ3NjczNTA0NDg5OA=="
     },
     {
         "korean": "낯익다",
-        "english": "Familiar"
+        "english": "Familiar",
+        "id": "MjI4MzI5Nzc3NjM4MjA1Ng=="
     },
     {
         "korean": "넉넉하다",
-        "english": "Enough, Sufficient"
+        "english": "Enough, Sufficient",
+        "id": "Mzk5MzQ1ODA4MjQwNDIzOA=="
     },
     {
         "korean": "넓다",
-        "english": "Large, Broad"
+        "english": "Large, Broad",
+        "id": "NDA5MjI2ODYwOTM2NzEwMw=="
     },
     {
         "korean": "노랗다",
-        "english": "Yellow"
+        "english": "Yellow",
+        "id": "NDUxNjE0NjcwMzc4MjE4OQ=="
     },
     {
         "korean": "놀랍다",
-        "english": "Surprising, Amazing"
+        "english": "Surprising, Amazing",
+        "id": "NjUyMjc5Nzc2MDExNzg3MQ=="
     },
     {
         "korean": "높다",
-        "english": "High"
+        "english": "High",
+        "id": "OTY3MTA5NTI4MjkwMTQxMA=="
     },
     {
         "korean": "누렇다",
-        "english": "(Golden) Yellow"
+        "english": "(Golden) Yellow",
+        "id": "NTI4MTU0Njk3NDAxNTUzNg=="
     },
     {
         "korean": "눈부시다",
-        "english": "Dazzling"
+        "english": "Dazzling",
+        "id": "NTk3NTM1OTY5MjYyNDgy"
     },
     {
         "korean": "느리다",
-        "english": "Slow"
+        "english": "Slow",
+        "id": "OTE0NzUwNzQ5NjcyODM3"
     },
     {
         "korean": "늦다",
-        "english": "Late"
+        "english": "Late",
+        "id": "OTIxMjgyNTc4MDk2OTk3NA=="
     },
     {
         "korean": "다르다",
-        "english": "Different"
+        "english": "Different",
+        "id": "Mjg3MzcxMzI5MjAxMDI1Mg=="
     },
     {
         "korean": "다름없다",
-        "english": "As Good As, Same"
+        "english": "As Good As, Same",
+        "id": "NjQxNjgxMDkzNjc0OTgxMQ=="
     },
     {
         "korean": "다양하다",
-        "english": "Various"
+        "english": "Various",
+        "id": "MzkwOTU3NzA5MDU4NTQzNQ=="
     },
     {
         "korean": "다정하다",
-        "english": "Kind, Friendly"
+        "english": "Kind, Friendly",
+        "id": "ODc2NTM1ODQ1MzU4Njc5Mw=="
     },
     {
         "korean": "단단하다",
-        "english": "Hard, Solid"
+        "english": "Hard, Solid",
+        "id": "ODE2NjA2MjQ0Njc2MDU3OA=="
     },
     {
         "korean": "단순하다",
-        "english": "Simple, Naive"
+        "english": "Simple, Naive",
+        "id": "MTgyNDQzODc2NDc2MDc4NQ=="
     },
     {
         "korean": "단정하다",
-        "english": "Neat, Tidy"
+        "english": "Neat, Tidy",
+        "id": "MTA3ODg5MjA1NTU1ODc1Ng=="
     },
     {
         "korean": "단조롭다",
-        "english": "Monotonous, Dull"
+        "english": "Monotonous, Dull",
+        "id": "ODA4NDI4NjkwNjY5NjE1Mg=="
     },
     {
         "korean": "단호하다",
-        "english": "Firm, Determined"
+        "english": "Firm, Determined",
+        "id": "OTgzNTkyNzIxNTk3MjA0"
     },
     {
         "korean": "달다",
-        "english": "Sweet, Sugary"
+        "english": "Sweet, Sugary",
+        "id": "OTY3MTczMjUzNTY5MTA0Ng=="
     },
     {
         "korean": "답답하다",
-        "english": "Stuffy, Stifling"
+        "english": "Stuffy, Stifling",
+        "id": "MTc5MDYyMDg5NTU5OTEwMA=="
     },
     {
         "korean": "당당하다",
-        "english": "Confident, Honorable"
+        "english": "Confident, Honorable",
+        "id": "ODIwMzYxNjYxMTc5NzM1Mw=="
     },
     {
         "korean": "당연하다",
-        "english": "Natural, Reasonable"
+        "english": "Natural, Reasonable",
+        "id": "NDQ2MDkxNzQ3NTUyNzc1MQ=="
     },
     {
         "korean": "대단하다",
-        "english": "Great, Huge"
+        "english": "Great, Huge",
+        "id": "ODc4NzUzNTEyMTgyOTUwNA=="
     },
     {
         "korean": "더럽다",
-        "english": "Dirty, Filthy"
+        "english": "Dirty, Filthy",
+        "id": "OTY3NTIxOTkwMjg5NzQzOA=="
     },
     {
         "korean": "덥다",
-        "english": "Hot (Weather)"
+        "english": "Hot (Weather)",
+        "id": "NzU3NTcwNDM1MjY1NjQxOA=="
     },
     {
         "korean": "독특하다",
-        "english": "Peculiar, Distinctive"
+        "english": "Peculiar, Distinctive",
+        "id": "NDI3OTYwMTQ0NzkzODQ0Mg=="
     },
     {
         "korean": "독하다",
-        "english": "Strong, Pungent, Dogged"
+        "english": "Strong, Pungent, Dogged",
+        "id": "OTM1MTA3MTAwNTI5Mzg3NA=="
     },
     {
         "korean": "동등하다",
-        "english": "Equal, Equivalent"
+        "english": "Equal, Equivalent",
+        "id": "NTM3MDg4MzkwMTIyMTE2Ng=="
     },
     {
         "korean": "동일하다",
-        "english": "Same As, Identical"
+        "english": "Same As, Identical",
+        "id": "MTQ5MjE4MDIwMDU2NjM0Nw=="
     },
     {
         "korean": "두껍다",
-        "english": "Thick"
+        "english": "Thick",
+        "id": "MzYyMDM0NTkwNDI2NDE0NA=="
     },
     {
         "korean": "두드러지다",
-        "english": "Remarkable, Noticeable"
+        "english": "Remarkable, Noticeable",
+        "id": "MTU1ODA0Mjc0MzU5NjM2Mg=="
     },
     {
         "korean": "두렵다",
-        "english": "Afraid, Scared"
+        "english": "Afraid, Scared",
+        "id": "NTk3OTYyOTM3NDkxOTU5MQ=="
     },
     {
         "korean": "둥그렇다",
-        "english": "Round"
+        "english": "Round",
+        "id": "NDY4OTQ1MzgxODg5MDEzNw=="
     },
     {
         "korean": "둥글다",
-        "english": "Round"
+        "english": "Round",
+        "id": "NjQzMjY2NzA5NDg2NDIxMw=="
     },
     {
         "korean": "뒤늦다",
-        "english": "Belated"
+        "english": "Belated",
+        "id": "MzI2OTA0MDA4MzA2NjMzNQ=="
     },
     {
         "korean": "드물다",
-        "english": "Rare, Uncommon"
+        "english": "Rare, Uncommon",
+        "id": "NjAzMTAxMTI4NDE4MjY3MA=="
     },
     {
         "korean": "든든하다",
-        "english": "Reassured, Reliable"
+        "english": "Reassured, Reliable",
+        "id": "NjAxNzg4MzAyNzIyMzEzMA=="
     },
     {
         "korean": "따갑다",
-        "english": "Hot, Stinging"
+        "english": "Hot, Stinging",
+        "id": "ODI4MTA0ODE3MDcyNzA3Mg=="
     },
     {
         "korean": "따뜻하다",
-        "english": "Warm"
+        "english": "Warm",
+        "id": "OTIyMzY0MTQ2NTg1ODM3"
     },
     {
         "korean": "따스하다",
-        "english": "Warm*"
+        "english": "Warm*",
+        "id": "MzQ3NTQzNzIzNjkwMDE3OQ=="
     },
     {
         "korean": "딱딱하다",
-        "english": "Firm, Stiff"
+        "english": "Firm, Stiff",
+        "id": "MzAxMzI3OTQ4MjExMTA4NA=="
     },
     {
         "korean": "떠들썩하다",
-        "english": "Noisy, Uproarious"
+        "english": "Noisy, Uproarious",
+        "id": "MTE2NDgwNTA2ODY0OTI2NA=="
     },
     {
         "korean": "떳떳하다",
-        "english": "Honorable"
+        "english": "Honorable",
+        "id": "NTU1MTgyNjQwODE3Nzc1NA=="
     },
     {
         "korean": "또같다",
-        "english": "Same, Identical"
+        "english": "Same, Identical",
+        "id": "MTQ2NjczMjI3MTg5MTEyOQ=="
     },
     {
         "korean": "똑똑하다",
-        "english": "Smart, Clever"
+        "english": "Smart, Clever",
+        "id": "NDc0NDU2NzUyODYxMTE="
     },
     {
         "korean": "뚜렷하다",
-        "english": "Clear, Distinct"
+        "english": "Clear, Distinct",
+        "id": "OTYyMDk0Mjk0ODkxMzYwMA=="
     },
     {
         "korean": "뚱뚱하다",
-        "english": "Fat, Overweight"
+        "english": "Fat, Overweight",
+        "id": "NzQ4NzA4MDQ1MDYxNjI2MQ=="
     },
     {
         "korean": "뛰어나다",
-        "english": "Outstanding, Good"
+        "english": "Outstanding, Good",
+        "id": "NTY2NzcwODc5Mjc4MjAzMQ=="
     },
     {
         "korean": "뜨겁다",
-        "english": "Hot, Burning"
+        "english": "Hot, Burning",
+        "id": "ODgyMjY5NzQ3OTkzODE0Ng=="
     },
     {
         "korean": "마땅하다",
-        "english": "Natural, Right, Proper"
+        "english": "Natural, Right, Proper",
+        "id": "MjM1MzA1OTEzMTIxMTgwMQ=="
     },
     {
         "korean": "막강하다",
-        "english": "Powerful, Strong"
+        "english": "Powerful, Strong",
+        "id": "OTE4MzEzMzE2MDEwMTgxNg=="
     },
     {
         "korean": "막대하다",
-        "english": "Huge, Enormous"
+        "english": "Huge, Enormous",
+        "id": "ODcxNjkwNzQxMzAzMzMzMg=="
     },
     {
         "korean": "막막하다",
-        "english": "At A Loss"
+        "english": "At A Loss",
+        "id": "NDk4ODEzOTUwNzYzMDA2OQ=="
     },
     {
         "korean": "막연하다",
-        "english": "Vague"
+        "english": "Vague",
+        "id": "NTEyNjIwMTA0MDUwMzQ4NA=="
     },
     {
         "korean": "만만하다",
-        "english": "Easy To Deal With"
+        "english": "Easy To Deal With",
+        "id": "MzMxMTA3NjUzODcwOTEzOQ=="
     },
     {
         "korean": "만족스럽다",
-        "english": "Satisfactory"
+        "english": "Satisfactory",
+        "id": "MTIxNjUwNjI4MTQ2NTg2MQ=="
     },
     {
         "korean": "많다",
-        "english": "Many, Much"
+        "english": "Many, Much",
+        "id": "MjIyNDM0NzgzMDgwNTYzNQ=="
     },
     {
         "korean": "맑다",
-        "english": "Clear, Sunny"
+        "english": "Clear, Sunny",
+        "id": "Nzg0OTAyNzg4NzY0MTYzMQ=="
     },
     {
         "korean": "맛없다",
-        "english": "(Taste) Bad"
+        "english": "(Taste) Bad",
+        "id": "NTE4MTI0MjcyNDA0MjEwOA=="
     },
     {
         "korean": "맛있다",
-        "english": "Delicious"
+        "english": "Delicious",
+        "id": "NDYzNjU2ODExNTEzODYyOA=="
     },
     {
         "korean": "맵다",
-        "english": "Spicy, Hot"
+        "english": "Spicy, Hot",
+        "id": "MTI4Nzk0ODExNDM3ODMwNg=="
     },
     {
         "korean": "머지않다",
-        "english": "Soon, Before Long"
+        "english": "Soon, Before Long",
+        "id": "MzEyNDYyNDAzMzExNjUzNA=="
     },
     {
         "korean": "멀다",
-        "english": "Far, Distant"
+        "english": "Far, Distant",
+        "id": "NDM4MTAzNTE4MDk5MDUz"
     },
     {
         "korean": "멀쩡하다",
-        "english": "Intact, Sober, Insane"
+        "english": "Intact, Sober, Insane",
+        "id": "NjE2MzI2OTc2NTEzNzI5Ng=="
     },
     {
         "korean": "멋있다",
-        "english": "Wonderful, Nice"
+        "english": "Wonderful, Nice",
+        "id": "NzYxMjgwNjQzMzI2ODc2"
     },
     {
         "korean": "멋지다",
-        "english": "Wonderful, Nice"
+        "english": "Wonderful, Nice",
+        "id": "MTc2NjYwNTYyNDI0NTU1Ng=="
     },
     {
         "korean": "명백하다",
-        "english": "Obvious, Clear"
+        "english": "Obvious, Clear",
+        "id": "ODk1NjA3MDkxMTg5MzI5MA=="
     },
     {
         "korean": "명확하다",
-        "english": "Clear, Obvious"
+        "english": "Clear, Obvious",
+        "id": "MjcxNjUwNjE4MzYyMTk5NA=="
     },
     {
         "korean": "모질다",
-        "english": "Hard, Severe"
+        "english": "Hard, Severe",
+        "id": "MjU2MDM4NDQyODIyOTIyNg=="
     },
     {
         "korean": "모호하다",
-        "english": "Vague, Ambiguous"
+        "english": "Vague, Ambiguous",
+        "id": "Mjc2Mjk4Nzg0MDE0OTkwNw=="
     },
     {
         "korean": "못되다",
-        "english": "Bad, Mean"
+        "english": "Bad, Mean",
+        "id": "MjE0MzUwOTEzOTE2MzA2Nw=="
     },
     {
         "korean": "못생기다",
-        "english": "Ugly, Unattractive"
+        "english": "Ugly, Unattractive",
+        "id": "NjM0NjU3NDA0OTgzNzkxNA=="
     },
     {
         "korean": "못지않다",
-        "english": "Not Inferior"
+        "english": "Not Inferior",
+        "id": "NjU0NTAxMjg4NjgwMzU3Ng=="
     },
     {
         "korean": "못하다",
-        "english": "Inferior"
+        "english": "Inferior",
+        "id": "MzcyODI1NjYyNjAyNDEwMw=="
     },
     {
         "korean": "묘하다",
-        "english": "Odd, Strange"
+        "english": "Odd, Strange",
+        "id": "OTExMzY2MjAzMzM5OTU5NA=="
     },
     {
         "korean": "무겁다",
-        "english": "Heavy"
+        "english": "Heavy",
+        "id": "NDU2MDMzMTE3NTA0ODkyNA=="
     },
     {
         "korean": "무관심하다",
-        "english": "Indifferent"
+        "english": "Indifferent",
+        "id": "NDk0NDkwMTY2MjMyNTMwNw=="
     },
     {
         "korean": "무관하다",
-        "english": "Irrelevant, Unrelated"
+        "english": "Irrelevant, Unrelated",
+        "id": "ODM1NjQxNTI5NTI4NjYwMw=="
     },
     {
         "korean": "무덥다",
-        "english": "Stifling, Sweltering"
+        "english": "Stifling, Sweltering",
+        "id": "Mjk0NTIwNDg3NjUwMjQyMQ=="
     },
     {
         "korean": "무리하다",
-        "english": "Excessive"
+        "english": "Excessive",
+        "id": "NDkwMjU0ODY2MTMyNDIyNg=="
     },
     {
         "korean": "무모하다",
-        "english": "Reckless, Rash"
+        "english": "Reckless, Rash",
+        "id": "MzQ2NjIwOTAwMDc2NjExMg=="
     },
     {
         "korean": "무사하다",
-        "english": "Safe, Unharmed"
+        "english": "Safe, Unharmed",
+        "id": "ODcwNjA2Nzc5NDkxMDU5NQ=="
     },
     {
         "korean": "무섭다",
-        "english": "Scary, Scared"
+        "english": "Scary, Scared",
+        "id": "NTQwNjQ2NTQzMjcwMDM2Nw=="
     },
     {
         "korean": "무성하다",
-        "english": "Thick, Overgrown"
+        "english": "Thick, Overgrown",
+        "id": "MzUyNzc4OTMyOTE1MzAzNQ=="
     },
     {
         "korean": "무수하다",
-        "english": "Countless, Myriad"
+        "english": "Countless, Myriad",
+        "id": "OTQ2MjQ4NTQ4MTUxMDk2MA=="
     },
     {
         "korean": "무심하다",
-        "english": "Indifferent, Inattentive"
+        "english": "Indifferent, Inattentive",
+        "id": "OTI5NTE2ODcyMjAxMTk2NA=="
     },
     {
         "korean": "무의미하다",
-        "english": "Meaningless"
+        "english": "Meaningless",
+        "id": "Njk4Nzk5MTU2OTkxMjYwOA=="
     },
     {
         "korean": "무책임하다",
-        "english": "Irresponsible"
+        "english": "Irresponsible",
+        "id": "MjE0MTYxNDQ5MjQ1MTQ5MQ=="
     },
     {
         "korean": "무한하다",
-        "english": "Infinite, Limitless"
+        "english": "Infinite, Limitless",
+        "id": "Mjc3OTQ3NTE1OTMxNzA2MA=="
     },
     {
         "korean": "묽다",
-        "english": "Watery, Thin"
+        "english": "Watery, Thin",
+        "id": "NzI1Nzc5NTc1MzM1OTY3Mw=="
     },
     {
         "korean": "미끄럽다",
-        "english": "Slippery, Slick"
+        "english": "Slippery, Slick",
+        "id": "NDI3NjYzMDg0NTc2MzM4Mw=="
     },
     {
         "korean": "미묘하다",
-        "english": "Delicate, Subtle"
+        "english": "Delicate, Subtle",
+        "id": "OTM0MTE2MTAzMjczNDg4"
     },
     {
         "korean": "미안하다",
-        "english": "Sorry"
+        "english": "Sorry",
+        "id": "MzU1NDQ1NTcxODQwNDAxMQ=="
     },
     {
         "korean": "미흡하다",
-        "english": "Insufficient, Unsatisfactory"
+        "english": "Insufficient, Unsatisfactory",
+        "id": "OTU0Mzg0MjczMDk3NzQxMA=="
     },
     {
         "korean": "민감하다",
-        "english": "Sensitive"
+        "english": "Sensitive",
+        "id": "NzYxNjg5NDUwMDIzNDI0Ng=="
     },
     {
         "korean": "민망하다",
-        "english": "Embarrassed, Ashamed"
+        "english": "Embarrassed, Ashamed",
+        "id": "OTExODMwNTMzNjkxNTk2Ng=="
     },
     {
         "korean": "밀접하다",
-        "english": "Close, Intimate"
+        "english": "Close, Intimate",
+        "id": "MjE4MTY0MzMyMjExNjE2MA=="
     },
     {
         "korean": "밉다",
-        "english": "Detestable"
+        "english": "Detestable",
+        "id": "MzUxNjg2NTI2OTE1MTI3NQ=="
     },
     {
         "korean": "바람직하다",
-        "english": "Desirable"
+        "english": "Desirable",
+        "id": "NTM1ODMzNDIzMDA0MTAyNA=="
     },
     {
         "korean": "바르다",
-        "english": "Straight, Correct, Right"
+        "english": "Straight, Correct, Right",
+        "id": "MjcyNTE1NjY2Nzg1NDk1OA=="
     },
     {
         "korean": "바쁘다",
-        "english": "Busy"
+        "english": "Busy",
+        "id": "MTEwODYyODk2Njc4MzA2Mw=="
     },
     {
         "korean": "반갑다",
-        "english": "Glad, Happy"
+        "english": "Glad, Happy",
+        "id": "NDc2NDMwNzU1OTc2MjQ1Nw=="
     },
     {
         "korean": "밝다",
-        "english": "Bright, Light"
+        "english": "Bright, Light",
+        "id": "MTc4NDA4MTY4NjMzMjU3NQ=="
     },
     {
         "korean": "밤늦다",
-        "english": "Late At Night"
+        "english": "Late At Night",
+        "id": "ODE5ODc0MDkzMjIyMjg1OQ=="
     },
     {
         "korean": "배고프다",
-        "english": "Hungry"
+        "english": "Hungry",
+        "id": "NDk4OTc0MzY5MDY0NDM1Nw=="
     },
     {
         "korean": "배부르다",
-        "english": "Full, Stuffed"
+        "english": "Full, Stuffed",
+        "id": "NzY3ODQ2NDUyNTI5NjUwMA=="
     },
     {
         "korean": "벅차다",
-        "english": "Hard To Manage, Full"
+        "english": "Hard To Manage, Full",
+        "id": "MjY2MzU2NzA0MTU2MzE2MA=="
     },
     {
         "korean": "번거롭다",
-        "english": "Cumbersome, Inconvenient"
+        "english": "Cumbersome, Inconvenient",
+        "id": "NzA2NTM3MTA4NzQ1ODk3OA=="
     },
     {
         "korean": "별다르다",
-        "english": "Particular, Special"
+        "english": "Particular, Special",
+        "id": "ODk0NjYwODg2MDgyNzg4MA=="
     },
     {
         "korean": "복잡하다",
-        "english": "Complicated, Complex"
+        "english": "Complicated, Complex",
+        "id": "MzQwNDk3MDM1NzM2MzcxMw=="
     },
     {
         "korean": "부끄럽다",
-        "english": "Shy, Ashamed"
+        "english": "Shy, Ashamed",
+        "id": "ODkyODY4ODIzNzg3MDQx"
     },
     {
         "korean": "부당하다",
-        "english": "Unfair, Unjust"
+        "english": "Unfair, Unjust",
+        "id": "NjA3NjMyOTIwNTc0OTIxOA=="
     },
     {
         "korean": "부드럽다",
-        "english": "Soft, Smooth"
+        "english": "Soft, Smooth",
+        "id": "ODM4NjEwNDAzNzA3MTY2MA=="
     },
     {
         "korean": "부럽다",
-        "english": "Envious"
+        "english": "Envious",
+        "id": "NjAyODg3NDM1NTUxNzAwMA=="
     },
     {
         "korean": "부르다",
-        "english": "Full"
+        "english": "Full",
+        "id": "MjYxMzA1OTg2OTQwNDU3MQ=="
     },
     {
         "korean": "부실하다",
-        "english": "Weak, Poor"
+        "english": "Weak, Poor",
+        "id": "ODExNzM0NzE3NjQ1ODI0Mw=="
     },
     {
         "korean": "부족하다",
-        "english": "Insufficient"
+        "english": "Insufficient",
+        "id": "ODA1NDI4MDAwMjUxMDQwNg=="
     },
     {
         "korean": "부지런하다",
-        "english": "Diligent"
+        "english": "Diligent",
+        "id": "OTgyMDQ5ODM5OTY0MDMyMg=="
     },
     {
         "korean": "분명하다",
-        "english": "Clear, Distinct"
+        "english": "Clear, Distinct",
+        "id": "MTgyMDcwODUzMzY0NTg1OQ=="
     },
     {
         "korean": "분주하다",
-        "english": "Busy"
+        "english": "Busy",
+        "id": "MTQxNDA0Mzk1NTU3NDgzOA=="
     },
     {
         "korean": "불가능하다",
-        "english": "Impossible"
+        "english": "Impossible",
+        "id": "MzA2NTUyMjQ0NTkzODI0Nw=="
     },
     {
         "korean": "불가피하다",
-        "english": "Inevitable, Unavoidable"
+        "english": "Inevitable, Unavoidable",
+        "id": "NDg2MTYxMzI5NjI0OTUwMQ=="
     },
     {
         "korean": "불과하다",
-        "english": "Only, No More Than"
+        "english": "Only, No More Than",
+        "id": "NzQyMzI0OTgyOTA3MzY1Nw=="
     },
     {
         "korean": "불길하다",
-        "english": "Ominous, Foreboding"
+        "english": "Ominous, Foreboding",
+        "id": "NjIyOTgxMTQ0OTYzOTkxNw=="
     },
     {
         "korean": "불리하다",
-        "english": "Unfavorable"
+        "english": "Unfavorable",
+        "id": "ODE5NTM4MDA0ODA3ODYzNQ=="
     },
     {
         "korean": "불쌍하다",
-        "english": "Pitiful, Pathetic"
+        "english": "Pitiful, Pathetic",
+        "id": "MTYxOTA4MDM3OTk1OTU5MA=="
     },
     {
         "korean": "불안정하다",
-        "english": "Unstable, Insecure"
+        "english": "Unstable, Insecure",
+        "id": "Njc0Mzc1OTYzODQwMzI0Mg=="
     },
     {
         "korean": "불안하다",
-        "english": "Anxious, Uneasy"
+        "english": "Anxious, Uneasy",
+        "id": "NTEyODM1NzYwNzQ4Njg0"
     },
     {
         "korean": "불완전하다",
-        "english": "Incomplete, Imperfect"
+        "english": "Incomplete, Imperfect",
+        "id": "NzA4ODQzMTQ3NzUzODA1Mw=="
     },
     {
         "korean": "불투명하다",
-        "english": "Opaque, Uncertain"
+        "english": "Opaque, Uncertain",
+        "id": "NDEwNDMyNTQ2Mzc0MjgyMg=="
     },
     {
         "korean": "불편하다",
-        "english": "Uncomfortable, Inconvenient"
+        "english": "Uncomfortable, Inconvenient",
+        "id": "NTU4NjkyMzIxNjg3NzgzNQ=="
     },
     {
         "korean": "불평등하다",
-        "english": "Unfair, Unequal"
+        "english": "Unfair, Unequal",
+        "id": "NTk0ODk0ODIwMjA4Nzg3MQ=="
     },
     {
         "korean": "불필요하다",
-        "english": "Unnecessary, Useless"
+        "english": "Unnecessary, Useless",
+        "id": "OTQzMjYyNjg0OTQ5ODYxNg=="
     },
     {
         "korean": "불행하다",
-        "english": "Unhappy, Unfortunate"
+        "english": "Unhappy, Unfortunate",
+        "id": "NTYyMzk4NDA3ODA5MTUxMw=="
     },
     {
         "korean": "불확실하다",
-        "english": "Uncertain, Unclear"
+        "english": "Uncertain, Unclear",
+        "id": "NDM3NzE2Njk5OTYxMzUzMw=="
     },
     {
         "korean": "붉다",
-        "english": "Red"
+        "english": "Red",
+        "id": "NzIwNDI4MzUwNDU4NDc4MQ=="
     },
     {
         "korean": "비슷하다",
-        "english": "Similar, Alike, Like"
+        "english": "Similar, Alike, Like",
+        "id": "NjE3NDIwNjg2OTk2NzA3Ng=="
     },
     {
         "korean": "비싸다",
-        "english": "Expensive, Costly"
+        "english": "Expensive, Costly",
+        "id": "MTg1OTU2OTIyOTIyNDc0Mg=="
     },
     {
         "korean": "빠르다",
-        "english": "Fast, Quick"
+        "english": "Fast, Quick",
+        "id": "ODc5MDQyMjQ2OTY4NzY5Mw=="
     },
     {
         "korean": "빨갛다",
-        "english": "Red"
+        "english": "Red",
+        "id": "ODg3NjI0NjMwMjM3Nzc1Nw=="
     },
     {
         "korean": "뻔하다",
-        "english": "Clear, Obvious"
+        "english": "Clear, Obvious",
+        "id": "ODU3MjE3ODY2MDI4MTk5Mw=="
     },
     {
         "korean": "뾰족하다",
-        "english": "Sharp, Pointed"
+        "english": "Sharp, Pointed",
+        "id": "Nzc4NTc2MzIwNjk3NzM0Nw=="
     },
     {
         "korean": "사납다",
-        "english": "Wild, Fierce"
+        "english": "Wild, Fierce",
+        "id": "NzAyOTIzMzkwMjUyOTc3MA=="
     },
     {
         "korean": "사랑스럽다",
-        "english": "Lovely, Cute"
+        "english": "Lovely, Cute",
+        "id": "MzMzMDcyMDI1NzAwMDkyMw=="
     },
     {
         "korean": "사소하다",
-        "english": "Trivial, Minor"
+        "english": "Trivial, Minor",
+        "id": "MTE3NjM2NzY4MTk1NjM3"
     },
     {
         "korean": "사이좋다",
-        "english": "On Good Terms"
+        "english": "On Good Terms",
+        "id": "Mjc1NzAyNjQwNzQ2MjY4OA=="
     },
     {
         "korean": "상관없다",
-        "english": "Unrelated, Fine, Okay"
+        "english": "Unrelated, Fine, Okay",
+        "id": "NTI0NDc4MTA5NDAyODk4NQ=="
     },
     {
         "korean": "상당하다",
-        "english": "Considerable, Sizeable"
+        "english": "Considerable, Sizeable",
+        "id": "NTk0NTQ3ODE5ODA5MzQxNw=="
     },
     {
         "korean": "상쾌하다",
-        "english": "Fresh, Refreshing"
+        "english": "Fresh, Refreshing",
+        "id": "MTE5MDM0OTk3Njg5NjE4MQ=="
     },
     {
         "korean": "새롭다",
-        "english": "New, Fresh"
+        "english": "New, Fresh",
+        "id": "MTgwMDgxNzQwODU2NzYx"
     },
     {
         "korean": "색다르다",
-        "english": "Unusual, Unconventional"
+        "english": "Unusual, Unconventional",
+        "id": "ODg3NDAwMDMxNzQ4Njc5MA=="
     },
     {
         "korean": "생생하다",
-        "english": "Vivid, Graphic"
+        "english": "Vivid, Graphic",
+        "id": "ODI5ODExMjAwMzQzODIw"
     },
     {
         "korean": "서늘하다",
-        "english": "Cool, Chilly"
+        "english": "Cool, Chilly",
+        "id": "OTEzODM3MjIwMzc4OTgzNg=="
     },
     {
         "korean": "서투르다",
-        "english": "Poor, Unskilled"
+        "english": "Poor, Unskilled",
+        "id": "NTY3NDU0NjY2NjgzNTY4MA=="
     },
     {
         "korean": "선명하다",
-        "english": "Clear, Distinct, Vivid"
+        "english": "Clear, Distinct, Vivid",
+        "id": "MjgzOTc0NjAyOTU3OTk5NQ=="
     },
     {
         "korean": "선하다",
-        "english": "Good, Nice"
+        "english": "Good, Nice",
+        "id": "ODE4NTUxNDMxNDY2MTcyNA=="
     },
     {
         "korean": "섬세하다",
-        "english": "Delicate, Exquisite"
+        "english": "Delicate, Exquisite",
+        "id": "ODYyNzM1MjAyMDAwNTgyNQ=="
     },
     {
         "korean": "섭섭하다",
-        "english": "Sorry, Disappointed"
+        "english": "Sorry, Disappointed",
+        "id": "MzcwNDQwMDU4Mzg3MDE5OA=="
     },
     {
         "korean": "성급하다",
-        "english": "Hasty, Impatient"
+        "english": "Hasty, Impatient",
+        "id": "MTI3MTM0OTkzMzcyOTM3Mw=="
     },
     {
         "korean": "성실하다",
-        "english": "Faithful, Sincere"
+        "english": "Faithful, Sincere",
+        "id": "MTQ5OTY1MTQ4Mzg5MTcwMg=="
     },
     {
         "korean": "세다",
-        "english": "Strong, Powerful"
+        "english": "Strong, Powerful",
+        "id": "NTQxMzEyMjc3MDg4MDQ3Mg=="
     },
     {
         "korean": "세련되다",
-        "english": "Refined, Sophisticated"
+        "english": "Refined, Sophisticated",
+        "id": "MzYyMDE1MzYzODkzNTE2MA=="
     },
     {
         "korean": "세심하다",
-        "english": "Careful, Scrupulous"
+        "english": "Careful, Scrupulous",
+        "id": "MzgwOTcxMzY0NDk3MjQ3OQ=="
     },
     {
         "korean": "섹시하다",
-        "english": "Sexy, Hot"
+        "english": "Sexy, Hot",
+        "id": "MzE5Njc2MDA4MDQ3MjI2MQ=="
     },
     {
         "korean": "소박하다",
-        "english": "Simple, Plain"
+        "english": "Simple, Plain",
+        "id": "NTQ2MDYxODY0MzkzODYwOA=="
     },
     {
         "korean": "소용하다",
-        "english": "Useless"
+        "english": "Useless",
+        "id": "OTE3MDA5NjQ2NDc2MTYwMA=="
     },
     {
         "korean": "소중하다",
-        "english": "Precious, Valuable, Dear"
+        "english": "Precious, Valuable, Dear",
+        "id": "Mzk3MTY0ODI2NTk3MjgyNw=="
     },
     {
         "korean": "속상하다",
-        "english": "Upset, Annoyed"
+        "english": "Upset, Annoyed",
+        "id": "Mzg1ODU5MTIwOTczMDAzMQ=="
     },
     {
         "korean": "손쉽다",
-        "english": "Easy"
+        "english": "Easy",
+        "id": "NzUxMjQwNTIzMTEyOTkwNg=="
     },
     {
         "korean": "솔직하다",
-        "english": "Honest, Open"
+        "english": "Honest, Open",
+        "id": "OTgzNzIwNzIwMjYyNzQw"
     },
     {
         "korean": "수많다",
-        "english": "A Lot Of, Numerous"
+        "english": "A Lot Of, Numerous",
+        "id": "NTY4Mzc3MTAyODI0MzQyNQ=="
     },
     {
         "korean": "순박하다",
-        "english": "Simple, Naive"
+        "english": "Simple, Naive",
+        "id": "ODMwNjk4NjQ5NDIyODM5"
     },
     {
         "korean": "순수하다",
-        "english": "Pure, Innocent"
+        "english": "Pure, Innocent",
+        "id": "MzEwNDgwOTkwNzQ2MjEyMQ=="
     },
     {
         "korean": "순진하다",
-        "english": "Innocent, Naive"
+        "english": "Innocent, Naive",
+        "id": "NTA5MDQyNDI1NDE1ODEyMw=="
     },
     {
         "korean": "순하다",
-        "english": "Gentle, Mild"
+        "english": "Gentle, Mild",
+        "id": "NzA2NDM0NzEwNTg0MjQ1"
     },
     {
         "korean": "숱하다",
-        "english": "Numerous"
+        "english": "Numerous",
+        "id": "OTk1NDMyMDg1OTYwMTgzMg=="
     },
     {
         "korean": "쉽다",
-        "english": "Easy, Simple"
+        "english": "Easy, Simple",
+        "id": "NTQwNjEzMzM2NzgwMTE4OQ=="
     },
     {
         "korean": "슬프다",
-        "english": "Sad, Sorrowful"
+        "english": "Sad, Sorrowful",
+        "id": "Mjc0MTkyNjcyMzY2Mjc4"
     },
     {
         "korean": "시급하다",
-        "english": "Urgent"
+        "english": "Urgent",
+        "id": "NDQ3ODA1NTMyMjM1OTEyMw=="
     },
     {
         "korean": "시끄럽다",
-        "english": "Noisy, Loud"
+        "english": "Noisy, Loud",
+        "id": "MzkwNzI5MTExMzQwODAzOA=="
     },
     {
         "korean": "시리다",
-        "english": "Cold"
+        "english": "Cold",
+        "id": "NTg4MzYxMjcxNjY1Nzc0NQ=="
     },
     {
         "korean": "시원하다",
-        "english": "Cool"
+        "english": "Cool",
+        "id": "NTU1MzQyOTU1ODUzNjc2Nw=="
     },
     {
         "korean": "시커멓다",
-        "english": "Jet Black"
+        "english": "Jet Black",
+        "id": "NzYyODMzMTI0NjMzMjU2NQ=="
     },
     {
         "korean": "신기하다",
-        "english": "Amazing, Wonderful"
+        "english": "Amazing, Wonderful",
+        "id": "MTY3NDc1MzQwNDE1MjQwNQ=="
     },
     {
         "korean": "신기하다",
-        "english": "Novel, New"
+        "english": "Novel, New",
+        "id": "NDg1Mjc1NjI5ODY4NDY1NQ=="
     },
     {
         "korean": "신선하다",
-        "english": "Fresh, New"
+        "english": "Fresh, New",
+        "id": "NzQ1ODIwNDY3NTE1OTc3Mg=="
     },
     {
         "korean": "신성하다",
-        "english": "Sacred, Holy"
+        "english": "Sacred, Holy",
+        "id": "ODI5MzM3ODI0MzgwMzE3OA=="
     },
     {
         "korean": "신속하다",
-        "english": "Prompt, Quick"
+        "english": "Prompt, Quick",
+        "id": "NjM0OTk3NjYxMjM0OTI0OA=="
     },
     {
         "korean": "신중하다",
-        "english": "Cautious, Prudent"
+        "english": "Cautious, Prudent",
+        "id": "MzIzNzM4MTIxOTIzMjY3"
     },
     {
         "korean": "신통하다",
-        "english": "Wonderful, Amazing"
+        "english": "Wonderful, Amazing",
+        "id": "MTczOTAxNzA3NDk1MzE0Mg=="
     },
     {
         "korean": "싫다",
-        "english": "Hateful"
+        "english": "Hateful",
+        "id": "MzczMTA1MTM2OTEwMDUyNw=="
     },
     {
         "korean": "심각하다",
-        "english": "Serious, Grave"
+        "english": "Serious, Grave",
+        "id": "ODkwNDAyOTc5MDU4NjU0Mw=="
     },
     {
         "korean": "심심하다",
-        "english": "Bored"
+        "english": "Bored",
+        "id": "MzUwMzY3Mjg3NzY3MjQzNQ=="
     },
     {
         "korean": "심하다",
-        "english": "Heavy, Severe"
+        "english": "Heavy, Severe",
+        "id": "ODUyNjUyODMwNjk3OTc3Nw=="
     },
     {
         "korean": "싱겁다",
-        "english": "Bland"
+        "english": "Bland",
+        "id": "NzA4MDAyMDk2NzQ2NTUxMg=="
     },
     {
         "korean": "싱싱하다",
-        "english": "Fresh"
+        "english": "Fresh",
+        "id": "NzMzNjg3MzkxNjA1MzkxNA=="
     },
     {
         "korean": "싸늘하다",
-        "english": "Chilly, Cold"
+        "english": "Chilly, Cold",
+        "id": "MTAyMDEyNjIyNDMyMzcwMQ=="
     },
     {
         "korean": "싸다",
-        "english": "Cheap, Inexpensive"
+        "english": "Cheap, Inexpensive",
+        "id": "NTgyOTAzMDk0ODg3OTk5"
     },
     {
         "korean": "썰렁하다",
-        "english": "Chilly, Empty, Corny"
+        "english": "Chilly, Empty, Corny",
+        "id": "OTUwMDI5NzgwNTU3ODA0"
     },
     {
         "korean": "쑥스럽다",
-        "english": "Shy, Embarressed"
+        "english": "Shy, Embarressed",
+        "id": "NjkxOTM2NTU5MTUxMjM="
     },
     {
         "korean": "쓰다",
-        "english": "Bitter"
+        "english": "Bitter",
+        "id": "MzMzMjIxMTQ4NDg2MzM3MA=="
     },
     {
         "korean": "쓸데없다",
-        "english": "Unnecessary, Useless"
+        "english": "Unnecessary, Useless",
+        "id": "Njc5MjA1OTEzMDUyMTYxOQ=="
     },
     {
         "korean": "쓸쓸하다",
-        "english": "Lonely, Solitary"
+        "english": "Lonely, Solitary",
+        "id": "MjkyMTM1ODI3NjU3MTI0MA=="
     },
     {
         "korean": "씩씩하다",
-        "english": "Vigorous, Energetic"
+        "english": "Vigorous, Energetic",
+        "id": "NjExOTI5ODk1MTIxMjIzOA=="
     },
     {
         "korean": "아깝다",
-        "english": "Valuable, Precious, Regrettable"
+        "english": "Valuable, Precious, Regrettable",
+        "id": "NjMzMzIyOTc2NDMyNDY5Nw=="
     },
     {
         "korean": "아니다",
-        "english": "Not"
+        "english": "Not",
+        "id": "NjY0MDA4OTIwOTIwNzkxMw=="
     },
     {
         "korean": "아득하다",
-        "english": "Distant, Far"
+        "english": "Distant, Far",
+        "id": "MjY2ODk1MzI3MDQwMTY5Nw=="
     },
     {
         "korean": "아름답다",
-        "english": "Beautiful"
+        "english": "Beautiful",
+        "id": "Njc2Mzc0NDQ2NTQ5OTU3Nw=="
     },
     {
         "korean": "아무렇다",
-        "english": "Concerned, Meaningful"
+        "english": "Concerned, Meaningful",
+        "id": "OTkyMzk3NDQ0NzYxOTE1NA=="
     },
     {
         "korean": "아쉽다",
-        "english": "Sorry, Sad"
+        "english": "Sorry, Sad",
+        "id": "Njc5NDY0ODkwNTA0Nzc3NQ=="
     },
     {
         "korean": "아프다",
-        "english": "Sick, Painful"
+        "english": "Sick, Painful",
+        "id": "ODE3MTgzNDgwMzQ5NzA1Ng=="
     },
     {
         "korean": "안녕하다",
-        "english": "Fine"
+        "english": "Fine",
+        "id": "ODE5NzU1MDQzMDQzNjU4Mg=="
     },
     {
         "korean": "안되다",
-        "english": "Sorry"
+        "english": "Sorry",
+        "id": "MjMxNTU3NjM3NjIyMzA3Mg=="
     },
     {
         "korean": "안전하다",
-        "english": "Safe, Secure"
+        "english": "Safe, Secure",
+        "id": "MzMxNzQxMzQyMzQ0MDAwMw=="
     },
     {
         "korean": "안타깝다",
-        "english": "Regrettable, Sad"
+        "english": "Regrettable, Sad",
+        "id": "ODEwMzE4OTg3OTczMDAyNg=="
     },
     {
         "korean": "알맞다",
-        "english": "Appropriate, Proper, Suitable"
+        "english": "Appropriate, Proper, Suitable",
+        "id": "NTc2NTUxMTQyNDc4MjM0"
     },
     {
         "korean": "애매하다",
-        "english": "Vague, Uncertain"
+        "english": "Vague, Uncertain",
+        "id": "NjU4NDg5NzU5Mzc4MzU2Mw=="
     },
     {
         "korean": "야하다",
-        "english": "Erotic, Racy"
+        "english": "Erotic, Racy",
+        "id": "NDg3MDk4NTkxNDc1MDU1NA=="
     },
     {
         "korean": "약하다",
-        "english": "Weak, Feeble"
+        "english": "Weak, Feeble",
+        "id": "NjgwNjcwNTEwNzk5NzE0NA=="
     },
     {
         "korean": "얄밉다",
-        "english": "Detestable"
+        "english": "Detestable",
+        "id": "NDE2ODg5NDUyNTk2MjkwMw=="
     },
     {
         "korean": "얇다",
-        "english": "Thin, Flimsy"
+        "english": "Thin, Flimsy",
+        "id": "NzM4OTk3MjEwMTkxNTUw"
     },
     {
         "korean": "얌전하다",
-        "english": "Coy, Well Mannered"
+        "english": "Coy, Well Mannered",
+        "id": "MzEzODgwMTM5OTg1ODE2NQ=="
     },
     {
         "korean": "얕다",
-        "english": "Shallow"
+        "english": "Shallow",
+        "id": "MjM2NDE2Njk3ODg5MDA5Mg=="
     },
     {
         "korean": "어둡다",
-        "english": "Dark, Gloomy"
+        "english": "Dark, Gloomy",
+        "id": "MTk2MzE4NDE5Mzc4NjIxNA=="
     },
     {
         "korean": "어떻다",
-        "english": "How, Like What"
+        "english": "How, Like What",
+        "id": "ODU0MjU5ODc3MDE4OTc5MQ=="
     },
     {
         "korean": "어렵다",
-        "english": "Difficult, Hard"
+        "english": "Difficult, Hard",
+        "id": "NTQ0NTAyNjQ3MzUyMTgz"
     },
     {
         "korean": "어리다",
-        "english": "Young, Little"
+        "english": "Young, Little",
+        "id": "MzIwNjk4NjEwMzcyMDI5OA=="
     },
     {
         "korean": "어리석다",
-        "english": "Foolish, Absurd"
+        "english": "Foolish, Absurd",
+        "id": "ODUzOTgxMzY1NDc0NjQ0Mg=="
     },
     {
         "korean": "어색하다",
-        "english": "Awkward"
+        "english": "Awkward",
+        "id": "ODAzOTk0MDMyODU1NTUzOQ=="
     },
     {
         "korean": "어지럽하다",
-        "english": "Dizzy, Chaotic"
+        "english": "Dizzy, Chaotic",
+        "id": "MTg1NDczNjUzNDUyODAzNw=="
     },
     {
         "korean": "어처구니없다",
-        "english": "Ridiculous, Absurd"
+        "english": "Ridiculous, Absurd",
+        "id": "MzkxNjQyOTI4NjcyMDM2MA=="
     },
     {
         "korean": "억울하다",
-        "english": "Unfair"
+        "english": "Unfair",
+        "id": "MTMzNjQyMzI1Mzc4Mzk1Ng=="
     },
     {
         "korean": "엄격하다",
-        "english": "Strict, Severe"
+        "english": "Strict, Severe",
+        "id": "NDgzNzM2MzA1ODM5Njc1OA=="
     },
     {
         "korean": "엄숙하다",
-        "english": "Solemn, Sober"
+        "english": "Solemn, Sober",
+        "id": "MzMxNTAzMjc2MzI0MzEwNw=="
     },
     {
         "korean": "엄청나다",
-        "english": "Huge, Great"
+        "english": "Huge, Great",
+        "id": "MTMzNjI5OTIyNTQ5NDYyNg=="
     },
     {
         "korean": "없다",
-        "english": "Not Exist, Not Have"
+        "english": "Not Exist, Not Have",
+        "id": "Nzg4NDc3MzAyOTM3MzI1"
     },
     {
         "korean": "엉뚱하다",
-        "english": "Unpredictable, Strange"
+        "english": "Unpredictable, Strange",
+        "id": "NTU1ODYwMjM2NjMyMzA1NQ=="
     },
     {
         "korean": "여전하다",
-        "english": "Still The Same"
+        "english": "Still The Same",
+        "id": "OTYwMDQ5MTkxMDA4ODky"
     },
     {
         "korean": "연하다",
-        "english": "Light, Soft, Weak"
+        "english": "Light, Soft, Weak",
+        "id": "NDg4NzUxNTM2NjA1MzE0"
     },
     {
         "korean": "열등하다",
-        "english": "Inferior"
+        "english": "Inferior",
+        "id": "Njc5NDY0OTY4Mzg3NjA4Ng=="
     },
     {
         "korean": "열악하다",
-        "english": "Poor, Inadequate"
+        "english": "Poor, Inadequate",
+        "id": "Nzg4NTc5NzI2ODE4MjAxOA=="
     },
     {
         "korean": "엷다",
-        "english": "Light, Pale"
+        "english": "Light, Pale",
+        "id": "NjIwOTQwNjAwOTc2NDQwMA=="
     },
     {
         "korean": "영원하다",
-        "english": "Permanent, Everlasting"
+        "english": "Permanent, Everlasting",
+        "id": "NDk4NTczMjk1NzA3Mjc3MA=="
     },
     {
         "korean": "예민하다",
-        "english": "Sensitive"
+        "english": "Sensitive",
+        "id": "MzY1Nzg3Njg0NzY4ODA0NA=="
     },
     {
         "korean": "예쁘다",
-        "english": "Pretty"
+        "english": "Pretty",
+        "id": "MTU2MDQ3MTMyNjA2NjY0Ng=="
     },
     {
         "korean": "오래다",
-        "english": "It’s Been A Long Time"
+        "english": "It’s Been A Long Time",
+        "id": "ODAxMjkzMDE2NjQ3ODkxNQ=="
     },
     {
         "korean": "올바르다",
-        "english": "Right, Proper"
+        "english": "Right, Proper",
+        "id": "MTI3ODc3MTUxMjc0Mzk0"
     },
     {
         "korean": "옳다",
-        "english": "Right, Proper"
+        "english": "Right, Proper",
+        "id": "NjcwMDgxNDQyMjI0OTc2OA=="
     },
     {
         "korean": "완벽하다",
-        "english": "Perfect"
+        "english": "Perfect",
+        "id": "MzM3NzU2MjgyODQ1NDYyMQ=="
     },
     {
         "korean": "완전하다",
-        "english": "Complete, Perfect"
+        "english": "Complete, Perfect",
+        "id": "Njg1ODI4NTY2OTc5NTI5NA=="
     },
     {
         "korean": "왕성하다",
-        "english": "Energetic, Active"
+        "english": "Energetic, Active",
+        "id": "NDQzMjA3OTgxMzQ1MzAwMw=="
     },
     {
         "korean": "외롭다",
-        "english": "Lonely, Solitary"
+        "english": "Lonely, Solitary",
+        "id": "MzU5MDk4NDQ3OTM0MjkxMg=="
     },
     {
         "korean": "요란하다",
-        "english": "Noisy, Uproarious"
+        "english": "Noisy, Uproarious",
+        "id": "OTE5Njk5OTA2MzQwMzE5MA=="
     },
     {
         "korean": "용감하다",
-        "english": "Brave, Courageous"
+        "english": "Brave, Courageous",
+        "id": "Mjc3NTgwODA4MTY4NTU2"
     },
     {
         "korean": "우수하다",
-        "english": "Excellent, Superb"
+        "english": "Excellent, Superb",
+        "id": "MjI3MzU4OTI0MDYwMDMwNQ=="
     },
     {
         "korean": "우스꽝스럽다",
-        "english": "Ridiculous, Funny"
+        "english": "Ridiculous, Funny",
+        "id": "OTI4Mzg4NTY3MjI2MzY2NA=="
     },
     {
         "korean": "우습다",
-        "english": "Funny, Humorous"
+        "english": "Funny, Humorous",
+        "id": "NDI3OTA0NjIzODY4NDQ2NQ=="
     },
     {
         "korean": "우아하다",
-        "english": "Elegant, Graceful"
+        "english": "Elegant, Graceful",
+        "id": "ODQ2OTYzOTc0MTc1Nzg5MQ=="
     },
     {
         "korean": "우울하다",
-        "english": "Gloomy, Depressed"
+        "english": "Gloomy, Depressed",
+        "id": "NDAyNjAzNTA4MzcwNjAzNw=="
     },
     {
         "korean": "원만하다",
-        "english": "Amicable, Easy Going"
+        "english": "Amicable, Easy Going",
+        "id": "NTQ5ODg3NjU5NTY0NzQ1Nw=="
     },
     {
         "korean": "원활하다",
-        "english": "Smooth"
+        "english": "Smooth",
+        "id": "MjE0MzkyMzE0NTg1MzA4NA=="
     },
     {
         "korean": "웬만하다",
-        "english": "Tolerable, Fairly Good"
+        "english": "Tolerable, Fairly Good",
+        "id": "NTE0ODYxNDMyODA5MzU5NQ=="
     },
     {
         "korean": "위대하다",
-        "english": "Great"
+        "english": "Great",
+        "id": "MTY2NjMzMDI1NjQ2NDg2OA=="
     },
     {
         "korean": "위험하다",
-        "english": "Dangerous"
+        "english": "Dangerous",
+        "id": "MjM2OTcwNjI1NzI4OTM0"
     },
     {
         "korean": "유능하다",
-        "english": "Competent"
+        "english": "Competent",
+        "id": "Mjc4Mjc3NTkzNTcxMjMxMg=="
     },
     {
         "korean": "유리하다",
-        "english": "Advantageous"
+        "english": "Advantageous",
+        "id": "OTc1MDgxOTYxNjcwMjI2MA=="
     },
     {
         "korean": "유명하다",
-        "english": "Famous"
+        "english": "Famous",
+        "id": "NDY1MDk0ODk4MTk5NTcwMA=="
     },
     {
         "korean": "유사하다",
-        "english": "Similar, Alike, Like"
+        "english": "Similar, Alike, Like",
+        "id": "MjcwNDQ4MzAwMDIxNTkzNA=="
     },
     {
         "korean": "유용하다",
-        "english": "Useful, Helpful"
+        "english": "Useful, Helpful",
+        "id": "ODQ5Njg3MTAyMjE4MjI2OQ=="
     },
     {
         "korean": "유일하다",
-        "english": "Only, Sole"
+        "english": "Only, Sole",
+        "id": "OTcwNDc0MjMzMTc1MzM4OA=="
     },
     {
         "korean": "은은하다",
-        "english": "Soft, Subdued, Subtle"
+        "english": "Soft, Subdued, Subtle",
+        "id": "MTIxNDQ2NjEwMTkyNjU2MQ=="
     },
     {
         "korean": "의심스럽다",
-        "english": "Doubtful"
+        "english": "Doubtful",
+        "id": "NjU2ODkwMjE0NDA4NjY2MQ=="
     },
     {
         "korean": "의아하다",
-        "english": "Weird, Doubtful"
+        "english": "Weird, Doubtful",
+        "id": "Mzg2NjYwODU5MjUxNzQ3OA=="
     },
     {
         "korean": "이렇다",
-        "english": "Like This"
+        "english": "Like This",
+        "id": "NDc1NTIyMDExODIwNTk0NQ=="
     },
     {
         "korean": "이롭다",
-        "english": "Beneficial, Advantageous"
+        "english": "Beneficial, Advantageous",
+        "id": "MjY5NTkzMDg4NTA4NjQ4"
     },
     {
         "korean": "이르다",
-        "english": "Early"
+        "english": "Early",
+        "id": "MzcwNTc2NzUxNTE0MDQ1Mw=="
     },
     {
         "korean": "이상하다",
-        "english": "Strange, Odd"
+        "english": "Strange, Odd",
+        "id": "NTM3NTIxODczMjg4OTYxOQ=="
     },
     {
         "korean": "익다",
-        "english": "Skilled, Familiar"
+        "english": "Skilled, Familiar",
+        "id": "MjAwNTk2OTIzNTQ1NTkyNw=="
     },
     {
         "korean": "익숙하다",
-        "english": "Skilled, Familiar"
+        "english": "Skilled, Familiar",
+        "id": "OTIzNTgyNTU2MTcyOTQzMA=="
     },
     {
         "korean": "일정하다",
-        "english": "Fixed, Constant, Regular"
+        "english": "Fixed, Constant, Regular",
+        "id": "MTc3Nzc2OTgyNzE4MDIzNg=="
     },
     {
         "korean": "있다",
-        "english": "To Be, Exist"
+        "english": "To Be, Exist",
+        "id": "OTYxMzkzMTg5MjMzMjIy"
     },
     {
         "korean": "자랑스럽다",
-        "english": "Worthy Of Pride"
+        "english": "Worthy Of Pride",
+        "id": "MzcwNTQxMjcxMjk2NDk5Nw=="
     },
     {
         "korean": "자세하다",
-        "english": "Detailed"
+        "english": "Detailed",
+        "id": "MzYwNjE4NjY5NDY2NDIyMg=="
     },
     {
         "korean": "자연스럽다",
-        "english": "Natural"
+        "english": "Natural",
+        "id": "ODI4OTI5NTMxOTQ3NTIxMg=="
     },
     {
         "korean": "자유롭다",
-        "english": "Free, Liberal"
+        "english": "Free, Liberal",
+        "id": "ODg5NjYzMzg4NzAwMTUwNA=="
     },
     {
         "korean": "작다",
-        "english": "Small, Little"
+        "english": "Small, Little",
+        "id": "NzI3NzkzMjUzODE0NTU5Mw=="
     },
     {
         "korean": "잔인하다",
-        "english": "Cruel, Brutal"
+        "english": "Cruel, Brutal",
+        "id": "MjAzMTE0MjI4NzU3MDAzMQ=="
     },
     {
         "korean": "잔잔하다",
-        "english": "Calm, Still"
+        "english": "Calm, Still",
+        "id": "MjExNTE5MzMyNTkzMjk5Ng=="
     },
     {
         "korean": "잘나다",
-        "english": "Good, Distinguished"
+        "english": "Good, Distinguished",
+        "id": "ODU2MzE0OTY3MjU4ODYxMg=="
     },
     {
         "korean": "잘다",
-        "english": "Small, Little, Fine"
+        "english": "Small, Little, Fine",
+        "id": "MjE0NzkwNTIzOTMxNzc0"
     },
     {
         "korean": "잘생기다",
-        "english": "Good Looking, Handsome"
+        "english": "Good Looking, Handsome",
+        "id": "MTQ1Nzk4MDkwNjE1MzY3OA=="
     },
     {
         "korean": "잦다",
-        "english": "Frequent"
+        "english": "Frequent",
+        "id": "MzY4MTEzOTEwNzQzNDAwMA=="
     },
     {
         "korean": "재미없다",
-        "english": "Boring, Dull"
+        "english": "Boring, Dull",
+        "id": "NTE4MzYxNTQyMjQxNjI0Ng=="
     },
     {
         "korean": "재미있다",
-        "english": "Funny, Interesting"
+        "english": "Funny, Interesting",
+        "id": "MTcxOTk3Nzg1OTI0MTM5MQ=="
     },
     {
         "korean": "저렇다",
-        "english": "Like That"
+        "english": "Like That",
+        "id": "OTU3OTYxOTY1MDI4NzEzOA=="
     },
     {
         "korean": "적다",
-        "english": "Few, Little, Small"
+        "english": "Few, Little, Small",
+        "id": "NDQ2MDY5MDQwNzMxOTE5NQ=="
     },
     {
         "korean": "적당하다",
-        "english": "Moderate, Suitable"
+        "english": "Moderate, Suitable",
+        "id": "Mjc3NjY1MjgzNTA5NzY2MA=="
     },
     {
         "korean": "적절하다",
-        "english": "Right, Proper, Appropriate"
+        "english": "Right, Proper, Appropriate",
+        "id": "MzI3MjMxODIzODA5Njc4NQ=="
     },
     {
         "korean": "적합하다",
-        "english": "Right, Proper, Suitable"
+        "english": "Right, Proper, Suitable",
+        "id": "ODAwMjYwMzk2MjUwMzkyOQ=="
     },
     {
         "korean": "절박하다",
-        "english": "Desperate, Urgent"
+        "english": "Desperate, Urgent",
+        "id": "NjY2MTA4ODk3NjkyNTgyNg=="
     },
     {
         "korean": "절실하다",
-        "english": "Deep, Urgent"
+        "english": "Deep, Urgent",
+        "id": "NTgyNDc0MTk1Njc5NDU5OQ=="
     },
     {
         "korean": "젊다",
-        "english": "Young, Youthful"
+        "english": "Young, Youthful",
+        "id": "MTA4MjY4NTA1NTI4NTMwNA=="
     },
     {
         "korean": "점잖다",
-        "english": "Gentle, Decent"
+        "english": "Gentle, Decent",
+        "id": "ODcwMTY3MTg0MjgyNjU4Mg=="
     },
     {
         "korean": "정교하다",
-        "english": "Exquisite, Elaborate"
+        "english": "Exquisite, Elaborate",
+        "id": "MTA2OTI4MTgxMjUxNTk4Mw=="
     },
     {
         "korean": "정답다",
-        "english": "Warm, Friendly"
+        "english": "Warm, Friendly",
+        "id": "OTc5MjU1MTUxMzc5NzExOA=="
     },
     {
         "korean": "정당하다",
-        "english": "Just, Fair"
+        "english": "Just, Fair",
+        "id": "ODQwMzU5MzI3NDYyOTE3MQ=="
     },
     {
         "korean": "정직하다",
-        "english": "Honest, Truthful"
+        "english": "Honest, Truthful",
+        "id": "NzU1NDQwOTA0NzQ0MTU0Ng=="
     },
     {
         "korean": "정확하다",
-        "english": "Accurate, Correct"
+        "english": "Accurate, Correct",
+        "id": "OTIzMzUzMTkzMTI3MzA3MA=="
     },
     {
         "korean": "조그맣다",
-        "english": "Small, Little"
+        "english": "Small, Little",
+        "id": "NTAzNjI1MDE1NDA1NDI0Nw=="
     },
     {
         "korean": "조심스럽다",
-        "english": "Careful, Cautious"
+        "english": "Careful, Cautious",
+        "id": "NzQxMjE0NjE0OTY5MjAzNg=="
     },
     {
         "korean": "조용하다",
-        "english": "Silent, Quiet"
+        "english": "Silent, Quiet",
+        "id": "OTcxMDUwNTk1Mjg3ODA1Ng=="
     },
     {
         "korean": "좁다",
-        "english": "Narrow, Small"
+        "english": "Narrow, Small",
+        "id": "NjQ2MzY3NzUwMzc3NzIwMw=="
     },
     {
         "korean": "좋다",
-        "english": "Good, Fine, Fond"
+        "english": "Good, Fine, Fond",
+        "id": "MTczMzAxNzU5NDEyOTkyOQ=="
     },
     {
         "korean": "죄송하다",
-        "english": "Sorry"
+        "english": "Sorry",
+        "id": "MjIyNDg5NDI2NTc3NDI0OQ=="
     },
     {
         "korean": "주요하다",
-        "english": "Major, Main"
+        "english": "Major, Main",
+        "id": "NDM3NjA0MDU1MzExMDg1MA=="
     },
     {
         "korean": "줄기차다",
-        "english": "Constant, Incessant"
+        "english": "Constant, Incessant",
+        "id": "ODM3NTUxNzg0ODE5MjU3Mw=="
     },
     {
         "korean": "중대하다",
-        "english": "Significant, Serious"
+        "english": "Significant, Serious",
+        "id": "MjIwMzEzNzQ4NjQ5MTMzMQ=="
     },
     {
         "korean": "중요하다",
-        "english": "Important"
+        "english": "Important",
+        "id": "NTQ3MDk0MTk4OTI0NDM5MQ=="
     },
     {
         "korean": "즐겁다",
-        "english": "Pleasant, Happy"
+        "english": "Pleasant, Happy",
+        "id": "OTgyMzA0NTkxMDI2NzU3Ng=="
     },
     {
         "korean": "지겹다",
-        "english": "Boring, Tiresome"
+        "english": "Boring, Tiresome",
+        "id": "OTU3Nzk3NTg3NDEwNjQ1Ng=="
     },
     {
         "korean": "지나치다",
-        "english": "Excessive"
+        "english": "Excessive",
+        "id": "NDg5MjQ2Nzg0NTYxMTQyMw=="
     },
     {
         "korean": "지독하다",
-        "english": "Hard, Terrible, Severe"
+        "english": "Hard, Terrible, Severe",
+        "id": "MzE4MjU2OTc1MjEzMjIzNA=="
     },
     {
         "korean": "지루하다",
-        "english": "Boring, Bored"
+        "english": "Boring, Bored",
+        "id": "Nzc1ODM4MjQ3Mjg3NjA2Ng=="
     },
     {
         "korean": "지저분하다",
-        "english": "Dirty, Messy"
+        "english": "Dirty, Messy",
+        "id": "NDE4NDc2MTAwMzE2MDk0Mg=="
     },
     {
         "korean": "진실하다",
-        "english": "Truthful, Sincere"
+        "english": "Truthful, Sincere",
+        "id": "NTgzNzIxNzQ2ODY1NTQ2OQ=="
     },
     {
         "korean": "진정하다",
-        "english": "True, Real"
+        "english": "True, Real",
+        "id": "NjQzNzI3OTUxNDgwNDQ4MQ=="
     },
     {
         "korean": "진지하다",
-        "english": "Serious, Earnest"
+        "english": "Serious, Earnest",
+        "id": "NDcyMDkwMDcyMTI3MDU0NA=="
     },
     {
         "korean": "진하다",
-        "english": "Dark, Deep, Thick"
+        "english": "Dark, Deep, Thick",
+        "id": "MTE2MzkwOTE2NDQzMTQ1Mg=="
     },
     {
         "korean": "짙다",
-        "english": "Deep, Dark"
+        "english": "Deep, Dark",
+        "id": "NjY5ODA1NjQ1MDM5MDAzMQ=="
     },
     {
         "korean": "짜다",
-        "english": "Salty, Stingy"
+        "english": "Salty, Stingy",
+        "id": "NjU3ODY3MDkxMTg3NzQ1MQ=="
     },
     {
         "korean": "짜증스럽다",
-        "english": "Irritating, Annoying"
+        "english": "Irritating, Annoying",
+        "id": "NTYxNTQ3MDk1MzY2MDgyMg=="
     },
     {
         "korean": "Annoyed",
-        "english": ""
+        "english": "",
+        "id": "MTAzNTA0NjIyMzE3MzcyMw=="
     },
     {
         "korean": "짧다",
-        "english": "Short, Brief"
+        "english": "Short, Brief",
+        "id": "MTQ2NjA0NDM0NjU2MzgwNg=="
     },
     {
         "korean": "차갑다",
-        "english": "Cold"
+        "english": "Cold",
+        "id": "NDQ0NzQxNTA1MjcwMDEyNA=="
     },
     {
         "korean": "차다",
-        "english": "Cold, Chilly"
+        "english": "Cold, Chilly",
+        "id": "NDcxNTMzMDM0MTI4MDgyMQ=="
     },
     {
         "korean": "차분하다",
-        "english": "Calm, Cool"
+        "english": "Calm, Cool",
+        "id": "Njg4NjkyMjQ5OTk2MTQ0NQ=="
     },
     {
         "korean": "착잡하다",
-        "english": "Mixed And Uneasy"
+        "english": "Mixed And Uneasy",
+        "id": "MzkyMTA4MDc0Nzc4NzQ5MQ=="
     },
     {
         "korean": "착하다",
-        "english": "Good"
+        "english": "Good",
+        "id": "MjkxNTY1Mzc5ODkxNTc5Ng=="
     },
     {
         "korean": "Natured",
-        "english": ""
+        "english": "",
+        "id": "MzMyMTM0NjcxNzgwODI3NA=="
     },
     {
         "korean": "찬란하다",
-        "english": "Brilliant, Splendid"
+        "english": "Brilliant, Splendid",
+        "id": "Njc4MTkwMDcwNDcwMTE2Mw=="
     },
     {
         "korean": "참답다",
-        "english": "True"
+        "english": "True",
+        "id": "NDAxNzU1MjA0NzQzNTE5"
     },
     {
         "korean": "참되다",
-        "english": "True, Real"
+        "english": "True, Real",
+        "id": "ODU5ODI1NjY5MzQ1NjcxNg=="
     },
     {
         "korean": "참신하다",
-        "english": "Original, New, Fresh"
+        "english": "Original, New, Fresh",
+        "id": "MzkxNDg4Mjc2MjU0MzI5Nw=="
     },
     {
         "korean": "창피하다",
-        "english": "Ashamed, Embarrassed"
+        "english": "Ashamed, Embarrassed",
+        "id": "OTcwMTQ1MTAxMzUwODYz"
     },
     {
         "korean": "철저하다",
-        "english": "Thorough"
+        "english": "Thorough",
+        "id": "NzUxNDQyMDgzNjI1MDY5OQ=="
     },
     {
         "korean": "초라하다",
-        "english": "Shabby, Humble"
+        "english": "Shabby, Humble",
+        "id": "MTM5MTU0NjE0ODQ1MTg3Mg=="
     },
     {
         "korean": "초조하다",
-        "english": "Restless, Nervous, Anxious"
+        "english": "Restless, Nervous, Anxious",
+        "id": "ODYzMDQ3MDYyMjEwNzUyOQ=="
     },
     {
         "korean": "촌스럽다",
-        "english": "Countrified"
+        "english": "Countrified",
+        "id": "Njk5NjI3MDQ3ODk2NjU4NA=="
     },
     {
         "korean": "춥다",
-        "english": "Cold, Chilly (Weather)"
+        "english": "Cold, Chilly (Weather)",
+        "id": "NTc2NDMwNDExMDQwMjM2Mw=="
     },
     {
         "korean": "충분하다",
-        "english": "Enough"
+        "english": "Enough",
+        "id": "NDg3NjgzMTg5OTEyODY0MA=="
     },
     {
         "korean": "충실하다",
-        "english": "Faithful, Loyal"
+        "english": "Faithful, Loyal",
+        "id": "OTYxNjE5MTMzMzkzNzAyNA=="
     },
     {
         "korean": "치밀하다",
-        "english": "Elaborate, Meticulous"
+        "english": "Elaborate, Meticulous",
+        "id": "NzU3NjQzNTU1MjU3OTQ2OA=="
     },
     {
         "korean": "치열하다",
-        "english": "Fierce, Intense"
+        "english": "Fierce, Intense",
+        "id": "MjcxODM0MTk0MTA3MjIyMg=="
     },
     {
         "korean": "친절하다",
-        "english": "Kind"
+        "english": "Kind",
+        "id": "MTIyMDgxNjA1MTg5MzM5"
     },
     {
         "korean": "친하다",
-        "english": "Close"
+        "english": "Close",
+        "id": "MzQ1MTQ0ODAyOTcxNTkwMA=="
     },
     {
         "korean": "침착하다",
-        "english": "Calm, Poised"
+        "english": "Calm, Poised",
+        "id": "Mjg1MDY2MTI1NDI2NDU2Mg=="
     },
     {
         "korean": "캄캄하다",
-        "english": "Very Dark"
+        "english": "Very Dark",
+        "id": "NzA4OTM4MjE1NzQyOTE2MA=="
     },
     {
         "korean": "커다랗다",
-        "english": "Big, Large, Huge"
+        "english": "Big, Large, Huge",
+        "id": "ODQ1NDUyOTIzODQ2MDQ4NA=="
     },
     {
         "korean": "크다",
-        "english": "Big, Large"
+        "english": "Big, Large",
+        "id": "MzkwMDEyNTM0NDY1NDczOQ=="
     },
     {
         "korean": "타당하다",
-        "english": "Reasonable"
+        "english": "Reasonable",
+        "id": "ODg4NjgzNjA3NDE4OTg4OA=="
     },
     {
         "korean": "탁월하다",
-        "english": "Excellent, Superior"
+        "english": "Excellent, Superior",
+        "id": "ODAxMDMzOTA1MzczMTAwOA=="
     },
     {
         "korean": "투명하다",
-        "english": "Transparent"
+        "english": "Transparent",
+        "id": "MTM2Mjk1OTQ3MjUzMDA4OA=="
     },
     {
         "korean": "특별하다",
-        "english": "Special"
+        "english": "Special",
+        "id": "Mzk4NTI3MDAyNzkxNzQzOA=="
     },
     {
         "korean": "특수하다",
-        "english": "Special, Unusual"
+        "english": "Special, Unusual",
+        "id": "Mjg2NTgxNTU0MDYwNzg3"
     },
     {
         "korean": "특이하다",
-        "english": "Unusual, Unique"
+        "english": "Unusual, Unique",
+        "id": "OTM4NzAyOTgwNjcxODEzMg=="
     },
     {
         "korean": "특정하다",
-        "english": "Particular, Certain"
+        "english": "Particular, Certain",
+        "id": "MjEzNTc4ODQyMTY2NzIzNw=="
     },
     {
         "korean": "튼튼하다",
-        "english": "Strong, Sturdy"
+        "english": "Strong, Sturdy",
+        "id": "ODUwNjM4MzU1NzY5NTAzOQ=="
     },
     {
         "korean": "틀림하다",
-        "english": "Sure, Certain"
+        "english": "Sure, Certain",
+        "id": "MjM2MjAxMDAxOTAxMTQ1NA=="
     },
     {
         "korean": "파랗다",
-        "english": "Blue"
+        "english": "Blue",
+        "id": "NDIwNTk3NDgzNTUxODYwNQ=="
     },
     {
         "korean": "편리하다",
-        "english": "Convenient"
+        "english": "Convenient",
+        "id": "ODY2NDI0NDkwNjIwMDE3Ng=="
     },
     {
         "korean": "편안하다",
-        "english": "Comfortable"
+        "english": "Comfortable",
+        "id": "MjA4MzE1OTk5NDcwODc5OQ=="
     },
     {
         "korean": "편하다",
-        "english": "Comfortable, Relaxed, Convenient"
+        "english": "Comfortable, Relaxed, Convenient",
+        "id": "MjAxMjAyOTc4NTkyNDk5OA=="
     },
     {
         "korean": "평등하다",
-        "english": "Equal"
+        "english": "Equal",
+        "id": "NzA4MTc3ODg2NTYxNzM4NQ=="
     },
     {
         "korean": "평범하다",
-        "english": "Ordinary, Common"
+        "english": "Ordinary, Common",
+        "id": "MzMyNjI2OTEzNzc2MTkyNA=="
     },
     {
         "korean": "평화하다",
-        "english": "Peaceful"
+        "english": "Peaceful",
+        "id": "NzQ4MTgxMTUwMjgxNjEyNQ=="
     },
     {
         "korean": "포근하다",
-        "english": "Cozy, Warm"
+        "english": "Cozy, Warm",
+        "id": "NTUwNjE0NDU4NzY0NzM2"
     },
     {
         "korean": "폭넓다",
-        "english": "Wide, Extensive"
+        "english": "Wide, Extensive",
+        "id": "ODIwMzAxOTUwNjIxODg5Ng=="
     },
     {
         "korean": "푸르다",
-        "english": "Blue, Azure, Green"
+        "english": "Blue, Azure, Green",
+        "id": "NzExOTM3Mjk4OTI3MjA3MA=="
     },
     {
         "korean": "풍부하다",
-        "english": "Rich, Plentiful"
+        "english": "Rich, Plentiful",
+        "id": "NjIzMDc2NDA3NjU0MjU5MA=="
     },
     {
         "korean": "풍성하다",
-        "english": "Plentiful, Abundant"
+        "english": "Plentiful, Abundant",
+        "id": "NjE1OTI1MzMzNzM0ODM1"
     },
     {
         "korean": "피곤하다",
-        "english": "Tired, Fatigued"
+        "english": "Tired, Fatigued",
+        "id": "Nzc3OTk0ODE3NTM1MjEyMA=="
     },
     {
         "korean": "피로하다",
-        "english": "Tired, Fatigued"
+        "english": "Tired, Fatigued",
+        "id": "NTYyMDAwMzQ2MjYxNTIyMA=="
     },
     {
         "korean": "필요하다",
-        "english": "Necessary"
+        "english": "Necessary",
+        "id": "ODU2ODgwOTA1Nzc5MjU4MQ=="
     },
     {
         "korean": "하얗다",
-        "english": "White"
+        "english": "White",
+        "id": "NTkzNTc5MDc4MTM2NDk1Ng=="
     },
     {
         "korean": "하찮다",
-        "english": "Trivial, Trifling"
+        "english": "Trivial, Trifling",
+        "id": "NDg3Njg1NzA4NjU1MjI0Mg=="
     },
     {
         "korean": "한가하다",
-        "english": "Free"
+        "english": "Free",
+        "id": "MTY0MzI1ODA3OTQ0OTY0OA=="
     },
     {
         "korean": "한심하다",
-        "english": "Pathetic, Pitiful"
+        "english": "Pathetic, Pitiful",
+        "id": "MTgxODcwNDAxMTMwMTUyOQ=="
     },
     {
         "korean": "해롭다",
-        "english": "Harmful, Bad"
+        "english": "Harmful, Bad",
+        "id": "ODI3NzkwNTYwMjQwNjk1"
     },
     {
         "korean": "행복하다",
-        "english": "Happy"
+        "english": "Happy",
+        "id": "NzY3MjQ4NjU5NjIwMjU0"
     },
     {
         "korean": "허름하다",
-        "english": "Shabby, Humble"
+        "english": "Shabby, Humble",
+        "id": "MzEzNDAzMDA1MTIxNTM1Mw=="
     },
     {
         "korean": "허망하다",
-        "english": "Vain, Futile"
+        "english": "Vain, Futile",
+        "id": "Nzk2ODU5NjkwMjQ3NTgxNQ=="
     },
     {
         "korean": "허무하다",
-        "english": "Vain, Futile"
+        "english": "Vain, Futile",
+        "id": "NDE5MjM2NjY3MjM5NTM3Ng=="
     },
     {
         "korean": "험하다",
-        "english": "Rough, Rugged"
+        "english": "Rough, Rugged",
+        "id": "OTg1NTkyMTEwNDI1MjE1"
     },
     {
         "korean": "현명하다",
-        "english": "Wise"
+        "english": "Wise",
+        "id": "MTgzNzExNDcwODMyODg3Mw=="
     },
     {
         "korean": "화려하다",
-        "english": "Fancy, Colorful"
+        "english": "Fancy, Colorful",
+        "id": "NjQ2MjU3MzgwNjUyODQ1OA=="
     },
     {
         "korean": "확고하다",
-        "english": "Firm, Solid"
+        "english": "Firm, Solid",
+        "id": "OTg1MTE5NzY1MDMzODA5NA=="
     },
     {
         "korean": "확실하다",
-        "english": "Sure, Certain"
+        "english": "Sure, Certain",
+        "id": "NjI1NzQyMjgzNTYzOTg5Ng=="
     },
     {
         "korean": "환하다",
-        "english": "Bright, Light"
+        "english": "Bright, Light",
+        "id": "Njc2ODA3MDEyODQ5MTYwMQ=="
     },
     {
         "korean": "활발하다",
-        "english": "Vigorous, Active"
+        "english": "Vigorous, Active",
+        "id": "OTA3Nzc3Mzg0OTMyODQ4NA=="
     },
     {
         "korean": "황당하다",
-        "english": "Dumbfounded, Aghast"
+        "english": "Dumbfounded, Aghast",
+        "id": "ODY0MDQ0NDc1MTMyMTM2Ng=="
     },
     {
         "korean": "황량하다",
-        "english": "Bleak, Desolate"
+        "english": "Bleak, Desolate",
+        "id": "ODQyOTA1NjI4Mjk3MDU2NA=="
     },
     {
         "korean": "훌륭하다",
-        "english": "Excellent, Great, Honorable"
+        "english": "Excellent, Great, Honorable",
+        "id": "ODQzMDU0NDkwNzA5MjM4Mw=="
     },
     {
         "korean": "흐리다",
-        "english": "Cloudy, Dim"
+        "english": "Cloudy, Dim",
+        "id": "MTA4MDAwODg4ODgwNDUwOQ=="
     },
     {
         "korean": "흐뭇하다",
-        "english": "Pleased, Satisfied"
+        "english": "Pleased, Satisfied",
+        "id": "NDc3NTEyMTE3NzQ2NTc2Mg=="
     },
     {
         "korean": "흔하다",
-        "english": "Common, Commonplace"
+        "english": "Common, Commonplace",
+        "id": "NDM2MDM1Mjc5OTYxMDMwMQ=="
     },
     {
         "korean": "흥미롭다",
-        "english": "Interesting"
+        "english": "Interesting",
+        "id": "MzI1MTY5NTM3MTkxNzMwMw=="
     },
     {
         "korean": "희다",
-        "english": "White"
+        "english": "White",
+        "id": "MTMyOTAzMDA5Njc1MzI0NQ=="
     },
     {
         "korean": "희미하다",
-        "english": "Dim, Faint"
+        "english": "Dim, Faint",
+        "id": "Njc2NzM4MDA3MTEyNTYxMA=="
     },
     {
         "korean": "힘겹하다",
-        "english": "Hard, Tough"
+        "english": "Hard, Tough",
+        "id": "NTcxNzU5NDU4MDE3MDIzOA=="
     },
     {
         "korean": "힘들다힘차다",
-        "english": "Hard, Difficult, Strenuous"
+        "english": "Hard, Difficult, Strenuous",
+        "id": "NzY3Nzc0ODA0ODcyNzIxNQ=="
     },
     {
         "korean": "힘차다",
-        "english": "Powerful, Vigorous"
+        "english": "Powerful, Vigorous",
+        "id": "MjU4ODc2MjU3MjMzMjA1OA=="
     }
 ]

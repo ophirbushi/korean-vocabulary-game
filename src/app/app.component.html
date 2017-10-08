@@ -6,7 +6,7 @@
   <input name="invert" type="checkbox" [(ngModel)]="INVERT">Invert
 </form>
 
-<h2>{{ INVERT ? question?.source?.english : question?.source?.korean }}</h2>
+<h2>{{ INVERT ? question?.source?.english : question?.source?.korean }}</h2><button (click)="markAsKnown(question?.source)">Mark as known</button>
 
 <ul>
   <li *ngFor="let option of question?.options" (click)="isCorrect(option)">{{ INVERT ? option?.korean : option?.english }}</li>

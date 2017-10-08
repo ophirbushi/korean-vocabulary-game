@@ -7,6 +7,7 @@ import 'rxjs/add/operator/map';
 import 'rxjs/add/observable/forkJoin';
 
 import { DataService } from './data.service';
+import { StorageService } from './storage.service';
 import { AppComponent } from './app.component';
 
 @NgModule({
@@ -18,7 +19,7 @@ import { AppComponent } from './app.component';
     FormsModule,
     BrowserModule
   ],
-  providers: [DataService],
+  providers: [DataService, StorageService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

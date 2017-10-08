@@ -3,6 +3,7 @@ import { Component, OnInit } from '@angular/core';
 import { Data } from './data';
 import { Question } from './question';
 import { DataService } from './data.service';
+import { StorageService } from './storage.service';
 
 @Component({
   selector: 'app-root',
@@ -22,7 +23,10 @@ export class AppComponent implements OnInit {
 
   private data: Data[] = [];
 
-  constructor(private dataService: DataService) { }
+  constructor(
+    private dataService: DataService,
+    private storageService: StorageService
+  ) { }
 
   ngOnInit() {
     this.dataService.getAll()
@@ -30,7 +34,9 @@ export class AppComponent implements OnInit {
   }
 
   next() {
-    const data: Data[] = JSON.parse(JSON.stringify(this.data));
+    let data: Data[] = JSON.parse(JSON.stringify(this.data));
+    const known = this.storageService.getKnown();
+    data = data.filter(item => known.findIndex(k => k === item.id) === -1);
 
     this.question = { source: null, options: [] };
 
@@ -55,13 +61,18 @@ export class AppComponent implements OnInit {
     this.next();
   }
 
+  markAsKnown(data: Data) {
+    this.storageService.markAsKnown(data);
+    this.next();
+  }
+
   private onDataReceive = (response: Data[]) => {
-    this.data = response;
+    this.data = response.slice(0, 50);
     this.next();
   }
 
   private popRandom<T>(array: T[]): T {
-    let index = Math.round(Math.random() * array.length);
+    let index = Math.round(Math.random() * array.length) - 1;
     index = Math.min(index, array.length);
     index = Math.max(index, -1);
 
