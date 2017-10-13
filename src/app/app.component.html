@@ -6,7 +6,7 @@
   <input name="invert" type="checkbox" [(ngModel)]="INVERT">Invert
 </form>
 
-<h2>{{ INVERT ? question?.source?.english : question?.source?.korean }}</h2><button (click)="markAsKnown(question?.source)">Mark as known</button>
+<h2>{{ INVERT ? question?.source?.english : question?.source?.korean }}</h2>
 
 <ul>
   <li *ngFor="let option of question?.options" (click)="isCorrect(option)">{{ INVERT ? option?.korean : option?.english }}</li>
@@ -18,4 +18,11 @@
   <div>corrects: {{corrects}}</div>
   <div>attempts: {{attempts}}</div>
   <div>percentage: %{{percentage}}</div>
+</ng-container>
+
+<ng-container *ngIf="!ready">
+  <ul>
+    <li *ngFor="let word of data; let i = index;" (click)="onPreGameItemClick(i)">{{word.korean}} : {{word.english}}</li>
+  </ul>
+  <button (click)="onDoneClick()">Done</button>
 </ng-container>

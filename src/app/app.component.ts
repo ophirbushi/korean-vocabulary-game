@@ -21,6 +21,9 @@ export class AppComponent implements OnInit {
   corrects = 0;
   percentage = 0;
 
+  ready = false;
+  userCollection: Data[] = [];
+
   private data: Data[] = [];
 
   constructor(
@@ -35,8 +38,6 @@ export class AppComponent implements OnInit {
 
   next() {
     let data: Data[] = JSON.parse(JSON.stringify(this.data));
-    const known = this.storageService.getKnown();
-    data = data.filter(item => known.findIndex(k => k === item.id) === -1);
 
     this.question = { source: null, options: [] };
 
@@ -61,14 +62,19 @@ export class AppComponent implements OnInit {
     this.next();
   }
 
-  markAsKnown(data: Data) {
-    this.storageService.markAsKnown(data);
+  onPreGameItemClick(index: number) {
+    this.userCollection.push(this.data[index]);
+    this.data.splice(index, 1);
+  }
+
+  onDoneClick() {
+    this.data = this.userCollection;
+    this.ready = true;
     this.next();
   }
 
   private onDataReceive = (response: Data[]) => {
-    this.data = response.slice(0, 50);
-    this.next();
+    this.data = response;
   }
 
   private popRandom<T>(array: T[]): T {
